@@ -1,0 +1,2446 @@
+[
+  {
+    "id": "0197cfb0-da30-70ed-a6f5-21331ea1b2cc",
+    "name": "La isla del tesoro",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Robert Louis Stevenson"
+      ],
+      "goodreadsRating": {
+        "rating": 3.85,
+        "count": 530344
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cfb0-da30-70ed-a6f5-21331ea1b2cc/0197cfb0-da30-70ed-a6f5-21331ea1b2cc.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cfb0-da30-70ed-a6f5-21331ea1b2cc/0197cfb0-da30-70ed-a6f5-21331ea1b2cc.jpg?width=720&height=1080"
+    },
+    "description": "\"La isla del tesoro\" by Robert Louis Stevenson is a classic adventure novel written in the late 19th century. The story follows young Jim Hawkins as he embarks on a thrilling journey filled with pirates, treasure maps, and the quest for buried treasure after discovering an old pirate's chest. Central to the narrative is the character of Long John Silver, a cunning one-legged pirate with a complex character who poses both a threat and a temptation to Jim.  At the start of the novel, Jim Hawkins recounts the peculiar events surrounding the arrival of a mysterious old sailor, known as the Captain, at the Admiral Benbow inn. The Captain, a rough and intimidating man, quickly establishes a sense of foreboding with his strange behavior and unsettling songs about treasure. As Jim's curiosity is piqued, he learns of the Captain's hidden treasures and is drawn into a world of betrayal and adventure, especially after nighttime encounters with other shady characters eager to claim the fabled pirate treasure for themselves. The opening sections set a thrilling tone for the adventure that is to unfold, introducing a combination of danger, suspense, and the allure of exploration on the high seas. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "01967c8c-d787-72e3-9950-e7d62918246b",
+    "name": "Tess of the d’Urbervilles",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Thomas Hardy"
+      ],
+      "goodreadsRating": {
+        "rating": 3.84,
+        "count": 299715
+      },
+      "chapters": [
+        {
+          "title": "Explanatory Note to the First Edition"
+        },
+        {
+          "title": "Epigraph"
+        },
+        {
+          "title": "Tess of the d’Urbervilles"
+        },
+        {
+          "title": "Phase the First: The Maiden"
+        },
+        {
+          "title": "I"
+        },
+        {
+          "title": "II"
+        },
+        {
+          "title": "III"
+        },
+        {
+          "title": "IV"
+        },
+        {
+          "title": "V"
+        },
+        {
+          "title": "VI"
+        },
+        {
+          "title": "VII"
+        },
+        {
+          "title": "VIII"
+        },
+        {
+          "title": "IX"
+        },
+        {
+          "title": "X"
+        },
+        {
+          "title": "XI"
+        },
+        {
+          "title": "Phase the Second: Maiden No More"
+        },
+        {
+          "title": "XII"
+        },
+        {
+          "title": "XIII"
+        },
+        {
+          "title": "XIV"
+        },
+        {
+          "title": "XV"
+        },
+        {
+          "title": "Phase the Third: The Rally"
+        },
+        {
+          "title": "XVI"
+        },
+        {
+          "title": "XVII"
+        },
+        {
+          "title": "XVIII"
+        },
+        {
+          "title": "XIX"
+        },
+        {
+          "title": "XX"
+        },
+        {
+          "title": "XXI"
+        },
+        {
+          "title": "XXII"
+        },
+        {
+          "title": "XXIII"
+        },
+        {
+          "title": "XXIV"
+        },
+        {
+          "title": "Phase the Fourth: The Consequence"
+        },
+        {
+          "title": "XXV"
+        },
+        {
+          "title": "XXVI"
+        },
+        {
+          "title": "XXVII"
+        },
+        {
+          "title": "XXVIII"
+        },
+        {
+          "title": "XXIX"
+        },
+        {
+          "title": "XXX"
+        },
+        {
+          "title": "XXXI"
+        },
+        {
+          "title": "XXXII"
+        },
+        {
+          "title": "XXXIII"
+        },
+        {
+          "title": "XXXIV"
+        },
+        {
+          "title": "Phase the Fifth: The Woman Pays"
+        },
+        {
+          "title": "XXXV"
+        },
+        {
+          "title": "XXXVI"
+        },
+        {
+          "title": "XXXVII"
+        },
+        {
+          "title": "XXXVIII"
+        },
+        {
+          "title": "XXXIX"
+        },
+        {
+          "title": "XL"
+        },
+        {
+          "title": "XLI"
+        },
+        {
+          "title": "XLII"
+        },
+        {
+          "title": "XLIII"
+        },
+        {
+          "title": "XLIV"
+        },
+        {
+          "title": "Phase the Sixth: The Convert"
+        },
+        {
+          "title": "XLV"
+        },
+        {
+          "title": "XLVI"
+        },
+        {
+          "title": "XLVII"
+        },
+        {
+          "title": "XLVIII"
+        },
+        {
+          "title": "XLIX"
+        },
+        {
+          "title": "L"
+        },
+        {
+          "title": "LI"
+        },
+        {
+          "title": "LII"
+        },
+        {
+          "title": "Phase the Seventh: Fulfilment"
+        },
+        {
+          "title": "LIII"
+        },
+        {
+          "title": "LIV"
+        },
+        {
+          "title": "LV"
+        },
+        {
+          "title": "LVI"
+        },
+        {
+          "title": "LVII"
+        },
+        {
+          "title": "LVIII"
+        },
+        {
+          "title": "LIX"
+        },
+        {
+          "title": "Tess of the d’Urbervilles"
+        }
+      ],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/01967c8c-d787-72e3-9950-e7d62918246b/01967c8c-d787-72e3-9950-e7d62918246b.webp?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/01967c8c-d787-72e3-9950-e7d62918246b/01967c8c-d787-72e3-9950-e7d62918246b.webp?width=720&height=1080"
+    },
+    "description": "\n\t\t\t<p><i>Tess of the d’Urbervilles</i> is said to be <a href=\"https://standardebooks.org/ebooks/thomas-hardy\">Thomas Hardy’s</a> fictional masterpiece and is considered to be an important nineteenth century novel. It explores themes of love, sex, class and morality in an aching love story.</p>\n\t\t\t<p>It initially appeared in a censored, serialised version in <i>The Graphic</i> in 1891 and was published in a single volume the following year. Early reviews were mixed, partly because of its challenge to Victorian sexual morals—it is now looked upon much more favorably.</p>\n\t\t\t<p>Tess Durbeyfield is the oldest child of uneducated peasants who are given the impression that they may have noble blood, as their surname is a corruption of that of an extinct Norman family. When Tess participates in the village May Dance, she meets Angel, who stops to join the dance but notices Tess too late to dance with her. That night, Tess’s father gets too drunk to drive to the market, so she undertakes the journey herself. However, she falls asleep at the reins, and the family’s only horse encounters a speeding wagon and is fatally wounded. Tess feels so guilty over the consequences for the family that she agrees to try to claim kin with a rich widow who lives in a neighbouring town. The story traces Tess’s life through the following years.</p>\n\t\t\t<p>The novel has been adapted for the stage, theatre, opera, cinema and television numerous times since its publication.</p>\n\t\t"
+  },
+  {
+    "id": "0197c239-4419-7668-a989-44a5e8349a6e",
+    "name": "Reina Valera New Testament of the Bible 1602, Book of Matthew",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.62,
+        "count": 2596
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c239-4419-7668-a989-44a5e8349a6e/0197c239-4419-7668-a989-44a5e8349a6e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c239-4419-7668-a989-44a5e8349a6e/0197c239-4419-7668-a989-44a5e8349a6e.jpg?width=720&height=1080"
+    },
+    "description": "\"The Reina Valera New Testament of the Bible 1602, Book of Matthew\" by Reina and Valera is a religious text from the early 17th century. This work presents the Gospel of Matthew, a foundational document of Christian faith, detailing the life, teachings, miracles, and the significance of Jesus Christ.  At the start of the Gospel of Matthew, the genealogy of Jesus is established, tracing his lineage back to Abraham and David. The text introduces the announcement of Jesus' birth to Mary through the angel, highlighting the virgin birth and the fulfillment of prophecy. Following this, significant events such as the visit from the Magi seeking the newborn king, King Herod's fear and subsequent actions to eliminate potential threats to his throne, and the family's escape to Egypt are narrated. The opening establishes key themes including divine intervention, fulfillment of prophecy, and the beginning of Jesus' ministry, setting the stage for the exploration of his teachings and miracles. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d91b-129c-73f4-98e7-51ca34c90867",
+    "name": "Monsieur Teste",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Paul Valéry"
+      ],
+      "goodreadsRating": {
+        "rating": 3.82,
+        "count": 756
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d91b-129c-73f4-98e7-51ca34c90867/0197d91b-129c-73f4-98e7-51ca34c90867.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d91b-129c-73f4-98e7-51ca34c90867/0197d91b-129c-73f4-98e7-51ca34c90867.jpg?width=720&height=1080"
+    },
+    "description": "\"Monsieur Teste\" by \"Paul Valéry\" is a philosophical exploration written in the late 19th century. The narrative delves into the life and thoughts of the enigmatic character Monsieur Teste, who embodies a unique blend of intellect and introspection. The work mainly focuses on Teste's intense self-awareness and his complex relationship with the world around him, highlighting themes of consciousness and the struggle for understanding.  At the start of the narrative, the author reflects on the conception of Monsieur Teste as a creature born from a blend of youthful literary ambition and profound self-examination. Valéry presents Teste as a character who lives in a state of acute awareness, driven by the desire for precision and authentic understanding. The text introduces various philosophical musings on the nature of thought, existence, and societal norms, as observed through the lens of Teste's fascinating yet tumultuous introspective journey. The reader is invited into Teste's world, filled with rich, abstract reflections, establishing him as a profound thinker navigating the complexities of human existence while contemplating the nature of reality itself. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c70d-11de-7569-a7f8-9bcf481ed484",
+    "name": "Mother's Remedies: Over One Thousand Tried and Tested Remedies from Mothers of the United States and Canada",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Thomas Jefferson Ritter"
+      ],
+      "goodreadsRating": {
+        "rating": 3.66,
+        "count": 404
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c70d-11de-7569-a7f8-9bcf481ed484/0197c70d-11de-7569-a7f8-9bcf481ed484.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c70d-11de-7569-a7f8-9bcf481ed484/0197c70d-11de-7569-a7f8-9bcf481ed484.jpg?width=720&height=1080"
+    },
+    "description": "\"Mother's Remedies\" by Thomas Jefferson Ritter is a comprehensive guidebook of home remedies and medical knowledge compiled in the early 20th century. The work aims to serve families by providing tried and tested remedies contributed by mothers across the United States and Canada, addressing a variety of ailments and medical conditions. The book integrates modern medical insights alongside traditional remedies, revealing the author’s intention to empower non-medical individuals with practical knowledge for health management.  The opening portion of \"Mother's Remedies\" includes a detailed preface highlighting the purpose and structure of the book. It emphasizes the necessity of simple home remedies due to the often limited access to medical professionals, especially in emergencies. The introduction acknowledges the contributions of mothers and notes the book's focus on practical applications, available ingredients, and a detailed examination of home remedies. Additionally, it outlines the organization of the content which includes various chapters devoted to diagnosing common conditions, discussing treatments, and elucidating the importance of timing in seeking medical help, all designed to equip families with useful knowledge for health issues. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197ca0d-2509-775d-9a42-189756fcd78f",
+    "name": "How I Know God Answers Prayer: The Personal Testimony of One Life-Time",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Rosalind Goforth"
+      ],
+      "goodreadsRating": {
+        "rating": 4.36,
+        "count": 282
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ca0d-2509-775d-9a42-189756fcd78f/0197ca0d-2509-775d-9a42-189756fcd78f.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ca0d-2509-775d-9a42-189756fcd78f/0197ca0d-2509-775d-9a42-189756fcd78f.jpg?width=720&height=1080"
+    },
+    "description": "\"How I Know God Answers Prayer: The Personal Testimony of One Life-Time\" by Rosalind Goforth is a spiritual memoir written in the early 20th century. The book captures Goforth's personal experiences as a missionary in China, emphasizing how faith and prayer have been instrumental in her life and work. Through her reflections, she addresses the power of petitioning God and shares testimonies of answered prayers during her ministry.  The opening of the memoir sets the tone for Goforth's exploration of faith, articulating her conviction that prayer is a natural and deeply personal way to connect with God. In her foreword, she explains the motivation behind her writing – a desire to share the collective evidence of her lifetime of answered prayer in response to doubts from others regarding God's responsiveness. She moves into recounting early lessons from her childhood about the importance of prayer and the profound impact it has had on her life, including her experiences of divine intervention in times of need. Goforth's heartfelt narratives illustrate a journey filled with challenges and miracles, establishing an earnest invitation for readers to consider the significance of prayer in their own lives. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197ca05-e909-77bb-b9a3-79de88cba80f",
+    "name": "The New Testament: Translated From the Original Greek, With Chronological Arrangement of the Sacred Books, and Improved Divisions of Chapters and Verses.",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.01,
+        "count": 176
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ca05-e909-77bb-b9a3-79de88cba80f/0197ca05-e909-77bb-b9a3-79de88cba80f.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ca05-e909-77bb-b9a3-79de88cba80f/0197ca05-e909-77bb-b9a3-79de88cba80f.jpg?width=720&height=1080"
+    },
+    "description": "\"The New Testament\" by Leicester A. Sawyer is a religious text, specifically a translation of the Christian New Testament, written in the mid-19th century. This translation aims to provide a clearer and more precise rendering of the original Greek texts, emphasizing a literal interpretation without adding or removing content. Sawyer strategically arranges the sacred books chronologically and proposes improved divisions of chapters and verses, seeking to enhance the reader's understanding of the Scriptures.  The opening of the work establishes Sawyer's intent to create an accurate and accessible translation of the New Testament, as he discusses the historical context of prior translations and the evolution of biblical texts over the centuries. He emphasizes the importance of a new translation that reflects the accumulated knowledge of biblical studies since the time of King James's Bible. The beginning sections include a preface detailing his methodology, followed by a genealogical account and the birth narrative of Jesus Christ, setting the stage for the subsequent narrative surrounding his life and teachings. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cb44-48d6-77d9-b8cf-29d0e6f48470",
+    "name": "Bible Myths and their Parallels in other Religions: Being a Comparison of the Old and New Testament Myths and Miracles with those of the Heathen Nations of Antiquity Considering also their Origin and Meaning",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "T. W. (Thomas William) Doane"
+      ],
+      "goodreadsRating": {
+        "rating": 3.79,
+        "count": 134
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cb44-48d6-77d9-b8cf-29d0e6f48470/0197cb44-48d6-77d9-b8cf-29d0e6f48470.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cb44-48d6-77d9-b8cf-29d0e6f48470/0197cb44-48d6-77d9-b8cf-29d0e6f48470.jpg?width=720&height=1080"
+    },
+    "description": "\"Bible Myths and their Parallels in Other Religions\" by T. W. Doane is a scholarly examination written in the late 19th century. The book delves into the myths and narratives found in the Old and New Testaments, comparing them with similar stories from various ancient religions. Doane's work aims to uncover the origins and meanings behind these biblical myths, suggesting that they might not be unique to Christianity.  The opening of the text presents an introduction in which the author explains the genesis of his research on biblical myths and their parallels with pagan narratives. He states that the book endeavors to trace the roots of various biblical stories, starting with the creation myth found in Genesis and moving through the accounts of key Old Testament figures and events. Doane notes the existence of discrepancies within these biblical accounts and proposes that many biblical myths share common traits with ancient religions, such as the Persian and Babylonian traditions. He sets the stage for a thorough exploration of these narratives in the forthcoming chapters, signaling an in-depth investigation into the evolution of religious stories across cultures. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c2fc-4f4e-716c-83ad-d98666d9210e",
+    "name": "The first New Testament printed in English",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.8,
+        "count": 75
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c2fc-4f4e-716c-83ad-d98666d9210e/0197c2fc-4f4e-716c-83ad-d98666d9210e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c2fc-4f4e-716c-83ad-d98666d9210e/0197c2fc-4f4e-716c-83ad-d98666d9210e.jpg?width=720&height=1080"
+    },
+    "description": "It appears that no content has been provided from the book. In order to assist you in crafting the overview and summary, please share the text or main points from \"The first New Testament printed in English by William Tyndale\". Without specific content, I won't be able to fulfill your request accurately. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197ce2a-766e-75d5-a283-6a863bffc38b",
+    "name": "Outline Studies in the New Testament for Bible Teachers",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jesse Lyman Hurlbut"
+      ],
+      "goodreadsRating": {
+        "rating": 4.05,
+        "count": 64
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ce2a-766e-75d5-a283-6a863bffc38b/0197ce2a-766e-75d5-a283-6a863bffc38b.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ce2a-766e-75d5-a283-6a863bffc38b/0197ce2a-766e-75d5-a283-6a863bffc38b.jpg?width=720&height=1080"
+    },
+    "description": "\"Outline Studies in the New Testament for Bible Teachers\" by Jesse Lyman Hurlbut is a religious educational text written in the early 20th century. This work serves as a study guide designed specifically for Bible teachers, aimed at deepening their understanding of the New Testament. The book provides a structured approach to learning about the life of Christ and the early Christian church, emphasizing that knowledge of these subjects is essential for effective teaching.  The opening of the text sets a foundational tone, emphasizing the importance of the Bible as a source of spiritual guidance and knowledge. Hurlbut introduces readers to the central themes of the New Testament, focusing on the life of Jesus and the development of the early church. He highlights the need for dedicated study and suggests that teachers and students approach the Scriptures diligently, using this guide as a resource to deepen their understanding and teaching of biblical principles. The text outlines various lessons that will explore significant events and teachings, inviting readers to engage actively with the material alongside the Bible itself. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c83b-d331-750b-b0a8-b8e5db74733e",
+    "name": "Tess of the Storm Country",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Grace Miller White"
+      ],
+      "goodreadsRating": {
+        "rating": 3.84,
+        "count": 49
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c83b-d331-750b-b0a8-b8e5db74733e/0197c83b-d331-750b-b0a8-b8e5db74733e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c83b-d331-750b-b0a8-b8e5db74733e/0197c83b-d331-750b-b0a8-b8e5db74733e.jpg?width=720&height=1080"
+    },
+    "description": "\"Tess of the Storm Country\" by Grace Miller White is a novel written in the early 20th century. It tells the story of Tessibel Skinner, a young girl living in a squatter fishing community on the outskirts of Ithaca, New York, where her father, Orn Skinner, is a fisherfolk struggling against societal contempt and legal adversities. The narrative explores Tess's character and her experiences growing up in a harsh environment, marked by poverty and the limitations imposed by her social status.  The opening of the book introduces us to Tess and her challenging life as she navigates her relationships with the fishermen surrounding her. The men express disdain for Tess, labeling her \"cursed\" and \"wild,\" and their prejudice against her reflects the broader societal issues related to class and gender. The murky dynamics of Tess’s family life, the influence of her father, and her interactions with her peers establish the key conflicts she faces. As rumors of her father's troubles with the law begin to surface, we see Tess's struggle between the loyalty to her father and the looming societal judgment that threatens their existence. This introductory segment deftly sets the stage for the unfolding drama, highlighting Tess's resilience and the precursors to her significant challenges ahead. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197ca1b-8f6a-7118-881d-6e7fd73f5623",
+    "name": "The New Testament of our Lord and Savior Jesus Christ.: The common English version, corrected by the final committee of the American Bible Union.",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.41,
+        "count": 44
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ca1b-8f6a-7118-881d-6e7fd73f5623/0197ca1b-8f6a-7118-881d-6e7fd73f5623.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ca1b-8f6a-7118-881d-6e7fd73f5623/0197ca1b-8f6a-7118-881d-6e7fd73f5623.jpg?width=720&height=1080"
+    },
+    "description": "\"The New Testament of our Lord and Savior Jesus Christ\" by the American Bible Union is a religious text, specifically a translation and revision of the New Testament, likely written in the mid-19th century. This edition strives for accuracy and clarity in presenting the teachings and life of Jesus Christ, along with significant theological concepts central to Christianity.  At the start of the text, the emphasis is placed on the authority of the Gospel, particularly the genealogical lineage of Jesus, linking him to Abraham and David. The opening chapters describe the miraculous events surrounding the birth of Christ, His early life, and the beginnings of His ministry, including the baptism by John the Baptist, the temptation in the wilderness, and the calling of the disciples. Key themes emerge here: the fulfillment of prophecy, the call for repentance, and his compassionate acts of healing and teaching. These foundational moments set the stage for understanding Jesus' identity and mission as central to Christian faith. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd0b-e221-710a-89f5-e3c948aa417a",
+    "name": "Outline Studies in the Old Testament for Bible Teachers",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jesse Lyman Hurlbut"
+      ],
+      "goodreadsRating": {
+        "rating": 3.81,
+        "count": 42
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd0b-e221-710a-89f5-e3c948aa417a/0197cd0b-e221-710a-89f5-e3c948aa417a.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd0b-e221-710a-89f5-e3c948aa417a/0197cd0b-e221-710a-89f5-e3c948aa417a.jpg?width=720&height=1080"
+    },
+    "description": "\"Outline Studies in the Old Testament for Bible Teachers\" by Jesse Lyman Hurlbut is a religious educational resource written in the early 20th century. This work focuses on a structured approach to teaching the Old Testament, aiming to equip Bible teachers with a comprehensive understanding of its historical context, key events, and significant themes. It serves as a companion guide for Sunday School educators, facilitating a deeper appreciation and effective teaching of the biblical texts.  The opening portion of the book introduces the necessity of a historical framework to comprehend the Old Testament. Hurlbut emphasizes that understanding the geographical and cultural context of the Israelite people is essential for grasping biblical narratives. The text outlines the layout of the Old Testament world, discussing its dimensions, significant bodies of water, mountain ranges, and rivers that shaped Israelite history and identity. This foundational study is intended to help teachers and students visualize the spaces in which biblical events unfolded, laying the groundwork for more in-depth lessons on Old Testament history and theology. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cc52-298c-7455-bd51-798c0480ab9d",
+    "name": "Bible Stories and Pictures. From the Old and New Testaments",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.13,
+        "count": 38
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cc52-298c-7455-bd51-798c0480ab9d/0197cc52-298c-7455-bd51-798c0480ab9d.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cc52-298c-7455-bd51-798c0480ab9d/0197cc52-298c-7455-bd51-798c0480ab9d.jpg?width=720&height=1080"
+    },
+    "description": "\"Bible Stories and Pictures. From the Old and New Testaments\" by Anonymous is a children's illustrated collection of biblical narratives, likely written in the early 19th century. This book presents timeless stories from both the Old and New Testaments, aiming to impart moral lessons and fundamental Christian beliefs. Through accessible language and engaging imagery, the book seeks to introduce young readers to the important figures and events of the Bible.  The content of the book is a selection of well-known Bible stories, including the accounts of Moses viewing the Promised Land, Samson's legendary strength, the victory of David over Goliath, the baptism of Jesus by John the Baptist, the miracle of turning water into wine at the Wedding at Cana, and the transformative conversion of Saul to Paul. Each story is presented with a focus on its moral or spiritual significance, encouraging children to understand and reflect on themes of faith, repentance, and divine love. The illustrations that accompany the text serve to enhance the storytelling, making these lessons from the scriptures more engaging for young readers. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c985-8af3-77e8-bc37-e38f661ae45e",
+    "name": "Test Rocket!",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jack Douglas"
+      ],
+      "goodreadsRating": {
+        "rating": 2.71,
+        "count": 38
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c985-8af3-77e8-bc37-e38f661ae45e/0197c985-8af3-77e8-bc37-e38f661ae45e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c985-8af3-77e8-bc37-e38f661ae45e/0197c985-8af3-77e8-bc37-e38f661ae45e.jpg?width=720&height=1080"
+    },
+    "description": "\"Test Rocket!\" by Jack Douglas is a science fiction short story published in the late 1950s. The narrative revolves around the mysterious circumstances surrounding a rocket that appears to have come from an unknown source, which closely resembles the design of a test rocket developed by Captain Baird and his team. The story delves into themes of exploration and the potential for extraterrestrial life, highlighting the uncertainties faced by those involved in space research.  In the story, Captain Baird and his colleague, Doctor Johannsen, are grappling with the arrival of a strange, oversized rocket that has landed at their testing station. As they investigate, they discover that the rocket's components are identical to their own design, yet the materials and its crew—a man who cannot read or understand the instruments—are entirely alien to them. The narrative unfolds through the tension between the characters as they confront the implications of this unexpected development and grapple with the fear of an unknown enemy or an unexpected encounter from another world. As the captain ponders the man’s role and the purpose of the rocket, they are left with deep questions about the future of space exploration and the existence of life beyond Earth. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cc48-b439-73cb-a692-8c0cd673348b",
+    "name": "Studies in Old Testament History",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jesse Lyman Hurlbut"
+      ],
+      "goodreadsRating": {
+        "rating": 3.91,
+        "count": 32
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cc48-b439-73cb-a692-8c0cd673348b/0197cc48-b439-73cb-a692-8c0cd673348b.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cc48-b439-73cb-a692-8c0cd673348b/0197cc48-b439-73cb-a692-8c0cd673348b.jpg?width=720&height=1080"
+    },
+    "description": "\"Studies in Old Testament History\" by Jesse Lyman Hurlbut is a historical account written in the late 19th century. The work aims to trace the significant events from the dawn of biblical history to the opening of the New Testament era, illuminating the development of the Israelite nation and its divine purpose. It appears to be a study guide designed for both individual scholars and educators, focusing on creating a deeper understanding of Old Testament narratives.  The beginning of this work establishes its purpose and framework. Hurlbut emphasizes that the Old Testament serves as a foundational history leading to the New Testament, intertwining religious and cultural teachings throughout biblical events. He notes several key events, such as the Deluge, the dispersion of races, and the migration of Abraham, outlining their roles in forming a divinely chosen nation. The introductory sections also include practical suggestions for studying the text effectively, making it clear that readers are guided to engage deeply with the material alongside biblical scripture. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cad4-d9d5-74ab-8de1-5c63f8eac6da",
+    "name": "El tesoro misterioso",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "William Le Queux"
+      ],
+      "goodreadsRating": {
+        "rating": 3.68,
+        "count": 28
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cad4-d9d5-74ab-8de1-5c63f8eac6da/0197cad4-d9d5-74ab-8de1-5c63f8eac6da.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cad4-d9d5-74ab-8de1-5c63f8eac6da/0197cad4-d9d5-74ab-8de1-5c63f8eac6da.jpg?width=720&height=1080"
+    },
+    "description": "\"El tesoro misterioso\" by William Le Queux is a fictional novel written in the early 20th century. The narrative centers around the enigmatic life and death of Burton Blair, a man who amassed a vast fortune under mysterious circumstances, leaving behind a secret that his friends, Gilberto Greenwood and Reginaldo Seton, are desperate to uncover. The book explores themes of trust, wealth, and the unknown, as the characters delve into the shadows of Blair’s life and the secrets he took to his grave.  The opening of the novel introduces us to the alarming scenario of Burton Blair's death in a Manchester hotel room, surrounded by his anxious friends who feel cheated by his refusal to disclose the secret of his immense wealth before passing away. The narrative unfolds through the dialogues between Gilberto and Reginaldo, highlighting their disillusionment and curiosity about Blair's undisclosed fortune, which they believe could have transformed their lives. After the revelation of his death, they begin to speculate on the nature of Blair's fortune and its implications, while also grappling with the mystery of his disappearance and the possible presence of enemies. As the opening progresses, it becomes clear that uncovering the truth behind Blair's secret is fraught with danger, intrigue, and the potential for betrayal. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd1c-535a-72de-a0df-015435ee19f7",
+    "name": "A Greek Primer: For Beginners in New Testament Greek",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Wallace N. (Wallace Nelson) Stearns"
+      ],
+      "goodreadsRating": {
+        "rating": 3.64,
+        "count": 28
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd1c-535a-72de-a0df-015435ee19f7/0197cd1c-535a-72de-a0df-015435ee19f7.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd1c-535a-72de-a0df-015435ee19f7/0197cd1c-535a-72de-a0df-015435ee19f7.jpg?width=720&height=1080"
+    },
+    "description": "\"A Greek Primer: For Beginners in New Testament Greek\" by Wallace N. Stearns is a linguistic guidebook written in the early 20th century. This instructional book aims to help novices learn New Testament Greek by providing an accessible framework for understanding its grammar, vocabulary, and pronunciation. Stearns emphasizes practical approaches to mastering the language, ensuring that it is suitable for those starting their journey into the intricacies of Greek.  The book begins with foundational elements such as the Greek alphabet, pronunciation rules, and essential grammatical structures, including declensions and verb conjugations. Each section is designed to build a strong basis for understanding New Testament Greek, encouraging readers to practice speaking and memorizing phrases. Stearns outlines strategies for effective language acquisition, such as reading aloud and committing passages to memory. The focus throughout is on creating a supportive and manageable learning environment to facilitate study, ultimately aimed at enabling preachers, teachers, and students to engage more deeply with New Testament texts. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c17a-6e27-7456-8b32-294e58df66b0",
+    "name": "Bibeln, Gamla och Nya Testamentet",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 24
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c17a-6e27-7456-8b32-294e58df66b0/0197c17a-6e27-7456-8b32-294e58df66b0.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c17a-6e27-7456-8b32-294e58df66b0/0197c17a-6e27-7456-8b32-294e58df66b0.jpg?width=720&height=1080"
+    },
+    "description": "\"Bibeln, Gamla och Nya Testamentet\" is a religious text that compiles the canonical books of the Old and New Testaments, likely produced in the early centuries of Christianity. This compilation serves as a foundational text for Judaism and Christianity, detailing the creation of the world, the history of humanity, and the teachings of Jesus Christ.   The opening portion of the text begins with the Book of Genesis, describing the creation of the world by God. It recounts the formation of light and darkness, the land and seas, and culminates with the creation of humans in God's image. The narrative further unfolds with the introduction of the Garden of Eden, Adam and Eve's life, their temptation by the serpent, and the consequences of their actions. This sets the stage for themes of free will, sin, and divine judgment, forming a basis for understanding the human condition in relation to God. The early chapters establish a world filled with possibility alongside inevitable challenges and moral dilemmas, inviting readers to reflect on the nature of existence and faith. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c2d1-9736-762e-addd-a47d7f1531c6",
+    "name": "Weymouth New Testament in Modern Speech, Preface and Introductions",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Richard Francis Weymouth"
+      ],
+      "goodreadsRating": {
+        "rating": 4.81,
+        "count": 21
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c2d1-9736-762e-addd-a47d7f1531c6/0197c2d1-9736-762e-addd-a47d7f1531c6.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c2d1-9736-762e-addd-a47d7f1531c6/0197c2d1-9736-762e-addd-a47d7f1531c6.jpg?width=720&height=1080"
+    },
+    "description": "The \"Weymouth New Testament in Modern Speech\" by R.F. Weymouth is a modern translation of the New Testament written in the early 20th century. Initially published in the late 1900s, it aims to present the New Testament in contemporary English, making the text accessible to modern readers while maintaining fidelity to the original Greek sources. The book serves as a scholarly, yet approachable rendition of the Christian scriptures, intended for both personal study and academic reference.  This translation encompasses the entirety of the New Testament, with special attention given to the nuances of the Greek language and its idiomatic expressions. Weymouth's approach strives for accuracy and clarity by avoiding unnecessary literalism that could cloud the original meaning. The volume includes footnotes and commentary to support the text, offering insights into the choices made in translation and the context of various passages. Overall, the \"Weymouth New Testament\" serves as both a studied resource for believers and a valuable tool for those exploring the foundational texts of Christianity without the barrier of archaic language. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d945-17d9-754a-83e9-063e9dea500e",
+    "name": "Il tesoro del Presidente del Paraguay",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Emilio Salgari"
+      ],
+      "goodreadsRating": {
+        "rating": 3.27,
+        "count": 22
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d945-17d9-754a-83e9-063e9dea500e/0197d945-17d9-754a-83e9-063e9dea500e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d945-17d9-754a-83e9-063e9dea500e/0197d945-17d9-754a-83e9-063e9dea500e.jpg?width=720&height=1080"
+    },
+    "description": null
+  },
+  {
+    "id": "0197c6fc-dedd-72aa-9b78-472a095e1276",
+    "name": "Mother Stories from the Old Testament: A Book of the Best Stories from the Old Testament that Mothers can tell their Children",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 18
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c6fc-dedd-72aa-9b78-472a095e1276/0197c6fc-dedd-72aa-9b78-472a095e1276.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c6fc-dedd-72aa-9b78-472a095e1276/0197c6fc-dedd-72aa-9b78-472a095e1276.jpg?width=720&height=1080"
+    },
+    "description": "\"Mother Stories from the Old Testament\" by Anonymous is a collection of narratives designed specifically for young children, crafted during the early 20th century. This book presents a selection of some of the best-known tales from the Old Testament, retold in a way that is accessible for mothers to share with their children. The likely topic focuses on moral teachings and lessons drawn from biblical accounts, aiming to instill important values through engaging stories.  The content of the book covers a range of well-loved Old Testament stories, each presenting fundamental biblical characters and events. Beginning with the creation story of Adam and Eve, it proceeds through tales of notable figures such as Cain and Abel, Noah, Abraham, Joseph, Moses, and many others, culminating in the accounts of heroes like David and Esther. Each story emphasizes themes of faith, obedience, love, and moral choices, often encapsulated by a narrative arc that conveys both struggles and resolutions. With illustrations accompanying each tale, the book aims to enrich the storytelling experience, making it a delightful and educational read for families. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d213-2e68-7539-89ec-9daa53a19da8",
+    "name": "El Tesoro de Gastón: Novela",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Emilia, condesa de Pardo Bazán"
+      ],
+      "goodreadsRating": {
+        "rating": 4.06,
+        "count": 16
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d213-2e68-7539-89ec-9daa53a19da8/0197d213-2e68-7539-89ec-9daa53a19da8.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d213-2e68-7539-89ec-9daa53a19da8/0197d213-2e68-7539-89ec-9daa53a19da8.jpg?width=720&height=1080"
+    },
+    "description": "\"El Tesoro de Gastón: Novela\" by condesa de Emilia Pardo Bazán is a work of fiction written in the late 19th century. This novel revolves around Gastón de Landrey, a young man returning from Paris only to confront the ruin of his family's estate and the consequences of his extravagant lifestyle. As he faces the grim realities of his financial situation, the story hints at themes of responsibility, moral introspection, and the value of heritage.  The opening of the novel introduces Gastón as he arrives at Madrid's North Station, burdened by fatigue and anxiety about his financial troubles. Despite having enjoyed a lavish lifestyle after inheriting from his mother, he now grapples with the aftermath of his recklessness and the role of his untrustworthy advisor, Don Jerónimo. After a sleepless night, filled with a mix of memories and regrets, he seeks solace from his only living relative, his aunt, the Comendadora, who lives in a convent. This beginning sets the stage for Gastón's journey into self-discovery and the search for a family treasure that could restore his fortunes, intertwining personal loss with the prospect of redemptive legacy. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c58e-3eb1-7728-ad10-efa699f41f6f",
+    "name": "The Christian Home: As it is in the Sphere of Nature and the Church; Showing the Mission, Duties, Influences, Habits, and Responsibilities of Home, its Education, Government, and Discipline; with Hints on \"Match Making,\" and the Relation of Parents to the Marriage Choice of their Children; together with a consideration of the Tests in the Selection of a Companion, Etc.",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Samuel Philips"
+      ],
+      "goodreadsRating": {
+        "rating": 3.24,
+        "count": 17
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c58e-3eb1-7728-ad10-efa699f41f6f/0197c58e-3eb1-7728-ad10-efa699f41f6f.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c58e-3eb1-7728-ad10-efa699f41f6f/0197c58e-3eb1-7728-ad10-efa699f41f6f.jpg?width=720&height=1080"
+    },
+    "description": "\"The Christian Home\" by Samuel Philips is a theological treatise written during the mid-19th century. The book delves into the intricate responsibilities, dynamics, and spiritual significance of the Christian family, addressing its vital role in shaping character and morals within both the church and society.  The beginning of the work sets the stage for a comprehensive exploration of the definition and implications of a Christian home. Philips emphasizes that home is not merely a physical space but a divine institution that fosters love, unity, and moral education among family members. He critiques contemporary societal neglect of the moral fabric of the home, suggesting that this decline contributes significantly to the larger issues of individualism and spiritual ignorance. By establishing the home as a critical foundation for both personal and communal well-being, the author proposes that parents hold a sacred responsibility to nurture their children's souls alongside their physical and intellectual needs, ultimately framing this as a divine mission to cultivate fidelity and love within their familial bonds. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cf2e-2235-76a8-ba22-350ed541b906",
+    "name": "A Brief Bible History: A Survey of the Old and New Testaments",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "J. Gresham (John Gresham) Machen",
+        "James Oscar Boyd"
+      ],
+      "goodreadsRating": {
+        "rating": 3.8,
+        "count": 15
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cf2e-2235-76a8-ba22-350ed541b906/0197cf2e-2235-76a8-ba22-350ed541b906.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cf2e-2235-76a8-ba22-350ed541b906/0197cf2e-2235-76a8-ba22-350ed541b906.jpg?width=720&height=1080"
+    },
+    "description": "\"A Brief Bible History: A Survey of the Old and New Testaments\" by James Oscar Boyd and John Gresham Machen is a historical account written in the early 20th century. This book presents a comprehensive overview of the Biblical narrative, covering significant events and themes from both the Old and New Testaments. It aims to explore God's redeeming grace throughout history, making it accessible for readers interested in understanding the biblical story.  The opening of the book establishes its primary objective: to provide a survey of key moments in biblical history, starting with the development of the church during Old Testament times. It explains the geographical significance of the Old Testament narratives, particularly focusing on the regions surrounding Palestine, and introduces the tragic nature of early human history characterized by sin and disobedience. The text highlights foundational figures like Adam, Noah, and Abraham, setting the groundwork for the exploration of God's promises and the significance of faith in the unfolding story of salvation. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c271-5113-77d8-b653-039684c16c05",
+    "name": "The suppressed Gospels and Epistles of the original New Testament of Jesus the Christ, Volume 5, St. Paul",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "William Wake"
+      ],
+      "goodreadsRating": {
+        "rating": 4.07,
+        "count": 14
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c271-5113-77d8-b653-039684c16c05/0197c271-5113-77d8-b653-039684c16c05.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c271-5113-77d8-b653-039684c16c05/0197c271-5113-77d8-b653-039684c16c05.jpg?width=720&height=1080"
+    },
+    "description": "\"The Suppressed Gospels and Epistles of the Original New Testament of Jesus the…\", edited by Archbishop Wake and other learned divines, is a collection of early Christian texts, likely written during the early centuries of Christianity. This book offers insight into the alternative narratives and teachings attributed to Jesus and his disciples, which were considered heretical or non-canonical by mainstream Christianity. The texts included provide a glimpse into the theological disputes and differing beliefs among early Christian sects before the establishment of the canonical New Testament.  The contents of the book primarily encompass epistles and gospels that were either excluded from or deemed apocryphal by the early church. One notable inclusion is the correspondence between Jesus and King Abgarus, which expresses the king’s requests for healing and Jesus's acknowledgment of his faith without having met him. Additionally, the collection features the Acts of Paul and Thecla, narrating Thecla’s fierce dedication to maintaining her faith amidst persecution and her miraculous encounters. Throughout these writings, themes of faith, martyrdom, and theological debate resonate, depicting a rich tapestry of early Christian thought and practice that diverges from the orthodox narratives familiar in contemporary Christianity. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c983-1dda-7471-a726-ac1cc167c070",
+    "name": "The Chemistry, Properties and Tests of Precious Stones",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "John Mastin"
+      ],
+      "goodreadsRating": {
+        "rating": 2.88,
+        "count": 16
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c983-1dda-7471-a726-ac1cc167c070/0197c983-1dda-7471-a726-ac1cc167c070.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c983-1dda-7471-a726-ac1cc167c070/0197c983-1dda-7471-a726-ac1cc167c070.jpg?width=720&height=1080"
+    },
+    "description": "\"The Chemistry, Properties and Tests of Precious Stones\" by John Mastin is a scientific publication written in the early 20th century. The book focuses on the analysis of precious stones, exploring their chemical composition, physical properties, and methods of testing and classification. Mastin aims to provide valuable insight not only to experts in mineralogy but also to the interested layperson.   The opening of the work introduces the definition of what constitutes a precious stone, emphasizing the characteristics that distinguish them from other minerals. The author notes that the value of precious stones is influenced by factors such as their rarity and changing public perceptions. Mastin explains the significance of various physical properties—like hardness, transparency, color, and crystalline structure—in categorizing gems. He sets the stage for a detailed exploration of these themes, indicating that subsequent chapters will delve deeper into specific stones as well as the processes involved in their study and classification. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c842-894a-7104-899a-1639aeabcdfe",
+    "name": "Children of the Old Testament",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 14
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c842-894a-7104-899a-1639aeabcdfe/0197c842-894a-7104-899a-1639aeabcdfe.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c842-894a-7104-899a-1639aeabcdfe/0197c842-894a-7104-899a-1639aeabcdfe.jpg?width=720&height=1080"
+    },
+    "description": "\"Children of the Old Testament\" by Anonymous is a collection of stories intended for children, written in the early 20th century. The book retells well-known tales from the Old Testament, featuring foundational biblical figures such as Joseph, Moses, Ruth, and Samuel. Aimed at a young audience, it not only provides narratives from scripture but also seeks to impart moral lessons through the actions and faith of these characters.  The opening of the book introduces the story of Joseph the Dreamer, depicting his life as the favorite son of Jacob and detailing his relationships with his brothers. It highlights Joseph's struggles, from the jealousy of his siblings due to their father's favoritism and his special coat, to the pivotal moment when his dreams of grandeur spark their ire, leading to his descent into slavery. As the narrative unfolds, it lays the groundwork for the trials Joseph will face and his journey towards becoming a significant figure in Egypt, setting the stage for themes of betrayal, faith, and eventual redemption that will resonate throughout the various stories in the book. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c271-2ab3-744d-8794-39aa49c71b43",
+    "name": "The suppressed Gospels and Epistles of the original New Testament of Jesus the Christ, Volume 2, the Protevanglion",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "William Wake"
+      ],
+      "goodreadsRating": {
+        "rating": 3.36,
+        "count": 14
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c271-2ab3-744d-8794-39aa49c71b43/0197c271-2ab3-744d-8794-39aa49c71b43.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c271-2ab3-744d-8794-39aa49c71b43/0197c271-2ab3-744d-8794-39aa49c71b43.jpg?width=720&height=1080"
+    },
+    "description": "\"The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ\" is a historical account compiled by Archbishop Wake and other learned divines, likely written in the late 19th century. This book falls under the category of religious and historical texts, exploring the gospels and epistles excluded from the mainstream New Testament that have been revered by primitive Christian churches during the first four centuries. Its primary focus is to shed light on the early Christian writings that were suppressed or omitted due to theological disputes.  The content of the book delves into the narratives surrounding the birth of Jesus and his family, specifically featuring accounts attributed to James the Lesser, the cousin of Jesus. Among the key stories is \"The Protevangelion,\" which portrays the miraculous conception of Mary and the circumstances of Jesus' birth. The text presents detailed interactions between Mary, Joseph, and various angels, emphasizing themes of innocence, divine intervention, and the lineage of Jesus. Through its exploration of these early scriptures, the book provides insights into the beliefs and traditions of early Christianity, contrasting with more widely accepted gospels in the New Testament. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c869-3127-779a-b9e7-80bdd90c9b4c",
+    "name": "A Campfire Girl's Test of Friendship",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jane L. Stewart"
+      ],
+      "goodreadsRating": {
+        "rating": 3.38,
+        "count": 13
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c869-3127-779a-b9e7-80bdd90c9b4c/0197c869-3127-779a-b9e7-80bdd90c9b4c.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c869-3127-779a-b9e7-80bdd90c9b4c/0197c869-3127-779a-b9e7-80bdd90c9b4c.jpg?width=720&height=1080"
+    },
+    "description": "\"A Campfire Girl's Test of Friendship\" by Jane L. Stewart is a fictional narrative written in the early 20th century. This book follows the adventures of the Camp Fire Girls, particularly focusing on Bessie King and Dolly Ransom, as they navigate friendships, challenges, and personal growth during their summer camp experience. It delves into themes of camaraderie and the complexities of young relationships as the girls face both internal and external conflicts, primarily with other campers and their own misunderstandings.  The opening of the story introduces the Camp Fire Girls as they awaken to a beautiful day at Camp Sunset. Bessie and Dolly express their relief at the smoke from a nearby fire dissipating, allowing them to enjoy their surroundings. As they reflect on previous tensions with girls from a neighboring camp, they reveal their struggles with pride, forgiveness, and understanding—setting the stage for character development throughout the narrative. The unexpected arrival of the neighboring girls, who come to apologize and forge a friendship, highlights the themes of reconciliation and the importance of compassion, which are central to the book's message. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c7fa-2dfd-747f-abda-18f4134ae46c",
+    "name": "The Camp Fire Girls on the March; Or, Bessie King's Test of Friendship",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jane L. Stewart"
+      ],
+      "goodreadsRating": {
+        "rating": 3.38,
+        "count": 13
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c7fa-2dfd-747f-abda-18f4134ae46c/0197c7fa-2dfd-747f-abda-18f4134ae46c.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c7fa-2dfd-747f-abda-18f4134ae46c/0197c7fa-2dfd-747f-abda-18f4134ae46c.jpg?width=720&height=1080"
+    },
+    "description": "\"The Camp Fire Girls on the March; Or, Bessie King's Test of Friendship\" by Jane L. Stewart is a novel written in the early 20th century.\" The story unfolds the adventures and moral lessons of a group of young girls in the Camp Fire organization, particularly focusing on Bessie King and her journey of friendship, forgiveness, and personal growth. As the plot develops, themes of camaraderie, resilience, and the importance of community service emerge, particularly highlighted through the interactions between the Camp Fire Girls and others they encounter.  \"The opening of this story introduces Bessie King and her friends, who are members of the Manasquan Camp Fire Girls, as they enjoy a beautiful morning at Camp Sunset on Lake Dean.\" They reflect on recent experiences, including a confrontation with snobbish girls from a neighboring camp and their later reconciliation. Bessie displays compassion, suggesting that the girls from Halsted Camp might have acted out of pride, while her friend Dolly struggles with anger over past conflicts. As they prepare for their next adventure, the group engages in dialogues about friendship, understanding, and the potential for change, laying the groundwork for a captivating journey that promises lessons in empathy and community support. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd52-03dc-7643-a6ab-803620900a9b",
+    "name": "The Literature of the Old Testament",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "George Foot Moore"
+      ],
+      "goodreadsRating": {
+        "rating": 3.6,
+        "count": 10
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd52-03dc-7643-a6ab-803620900a9b/0197cd52-03dc-7643-a6ab-803620900a9b.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd52-03dc-7643-a6ab-803620900a9b/0197cd52-03dc-7643-a6ab-803620900a9b.jpg?width=720&height=1080"
+    },
+    "description": "\"The Literature of the Old Testament\" by George Foot Moore is a scholarly account written in the early 20th century. It explores the historical, religious, and literary significance of the Old Testament texts, detailing the development of these works and their impact on Jewish and Christian traditions. The book likely delves into canonical issues, authorial intent, and the sociocultural context of the various texts.  At the start of this detailed examination, the author introduces the foundations of the Old Testament, discussing its reception by early Christians and the differentiation between the Old and New Testaments. He outlines the historical significance and the evolution of religious texts, emphasizing the period when Hebrew transitioned to Greek for literary and cultural reasons. Moore also addresses the complexities of canon formation, noting debates among Jewish scholars regarding the inspiration of certain books, which sets a comprehensive backdrop for understanding the Old Testament as a dynamic body of literature and its varied interpretations across different religious communities. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c6fc-f27b-71ca-ae66-f28581c5bc2d",
+    "name": "Mother Stories from the New Testament: A Book of the Best Stories from the New Testament that Mothers can tell their Children",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 3.78,
+        "count": 9
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c6fc-f27b-71ca-ae66-f28581c5bc2d/0197c6fc-f27b-71ca-ae66-f28581c5bc2d.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c6fc-f27b-71ca-ae66-f28581c5bc2d/0197c6fc-f27b-71ca-ae66-f28581c5bc2d.jpg?width=720&height=1080"
+    },
+    "description": "\"Mother Stories from the New Testament\" by Anonymous is a collection of religious narratives written in the early 20th century. This book is designed primarily for children, aimed at allowing mothers or caregivers to share the teachings and stories of the New Testament in a way that is accessible and engaging for young audiences. The likely topic of the book revolves around the key events and parables from the life of Jesus Christ and his teachings.  The content is a compilation of notable stories from the New Testament that emphasizes moral lessons and the virtues of faith, compassion, and kindness. It includes narratives such as the visit of the wise men, Jesus’ teachings through parables, his miracles of healing, and the loving interactions with children. Each story is accompanied by illustrations, enriching the reading experience and helping to convey the messages of love and redemption inherent in the Christian faith. This engaging format not only serves to educate children about the New Testament but also promotes the values central to Christianity in a relatable manner. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c552-bc6e-77eb-97b9-4c0b1484d24b",
+    "name": "The Testing of Diana Mallory",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Humphry, Mrs. Ward"
+      ],
+      "goodreadsRating": {
+        "rating": 3.67,
+        "count": 9
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c552-bc6e-77eb-97b9-4c0b1484d24b/0197c552-bc6e-77eb-97b9-4c0b1484d24b.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c552-bc6e-77eb-97b9-4c0b1484d24b/0197c552-bc6e-77eb-97b9-4c0b1484d24b.jpg?width=720&height=1080"
+    },
+    "description": "\"The Testing of Diana Mallory\" by Mrs. Humphry Ward is a novel written during the early 20th century. The story introduces Diana Mallory, a young woman who has recently returned to England after living abroad with her father. As she begins to settle into a charming old house called Beechcote Manor, the narrative explores her yearning for connection to her homeland and the complex emotions that accompany her status as an orphan and a newcomer in both society and her own life.  The opening of the novel captures Diana's emotional state through descriptive prose, showcasing her impressions of the English countryside as she revels in the nostalgic beauty of her surroundings. As she gazes at the morning landscape, she reflects on her past experiences abroad, and her feelings of both joy and melancholy intertwine. The narrative also highlights her first interactions with her new companion, Mrs. Colwood, and the warmth of village life, hinting at Diana's desire to form relationships within this new social setting. As she navigates her place in a world filled with both hope and challenges, Diana is portrayed as a spirited and introspective character, who is aware of her longing for acceptance, connection, and identity against the backdrop of her English heritage. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d090-a578-76c4-9279-d8fa638ded48",
+    "name": "Legends of the Patriarchs and Prophets: And Other Old Testament Characters from Various Sources",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "S. (Sabine) Baring-Gould"
+      ],
+      "goodreadsRating": {
+        "rating": 3.67,
+        "count": 9
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d090-a578-76c4-9279-d8fa638ded48/0197d090-a578-76c4-9279-d8fa638ded48.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d090-a578-76c4-9279-d8fa638ded48/0197d090-a578-76c4-9279-d8fa638ded48.jpg?width=720&height=1080"
+    },
+    "description": "\"Legends of the Patriarchs and Prophets\" by S. Baring-Gould is a collection of myths and stories that delve into the lives and legends of key Old Testament figures, likely written in the late 19th century. This compilation draws upon a variety of sources, including Talmudic traditions and apocryphal texts, to explore the rich tapestry of narratives surrounding biblical personalities from Adam to Joshua. The book aims to illuminate the lesser-known aspects of these figures' lives, suggesting that their stories are steeped in myriad interpretations and cultural layers.  The opening of the text sets the stage for the exploration of angelic and human origins, beginning with the fall of the angels, illustrating their rebellion against God, and leading into the subsequent creation of man. It recounts how God made Adam from earth and breathed life into him, emphasizing Adam's initial greatness and later, his downfalls, such as the temptation by Eblis (Satan) and the ultimate disobedience alongside Eve. This portion combines traditional biblical accounts with various interpretations, providing insights into the complexities of creation, temptation, and the enduring consequences of human choices. Through this foundational narrative, the reader is introduced to the themes of faith, rebellion, and redemption that resonate throughout the whole book. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197ca82-de59-70c9-ba44-3de38882fcc8",
+    "name": "The Testimony of the Rocks: or, Geology in Its Bearings on the Two Theologies, Natural and Revealed",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Hugh Miller"
+      ],
+      "goodreadsRating": {
+        "rating": 3.75,
+        "count": 8
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ca82-de59-70c9-ba44-3de38882fcc8/0197ca82-de59-70c9-ba44-3de38882fcc8.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ca82-de59-70c9-ba44-3de38882fcc8/0197ca82-de59-70c9-ba44-3de38882fcc8.jpg?width=720&height=1080"
+    },
+    "description": "\"The Testimony of the Rocks\" by Hugh Miller is a scientific work written in the mid-19th century. This book explores the relationship between geology and theology, engaging with both natural and revealed theology. It aims to reconcile geological findings with biblical accounts of creation using Miller's deep insights into geological history, particularly that of Scotland.  The opening of the text sets the stage for Miller's exploration of palaeontology, presenting it as a field that encompasses the study of ancient life forms across geological periods. It emphasizes the complexity of life’s history, advocating for a systematic classification akin to both natural sciences and the divine order. Miller indicates that the understanding of geological epochs can reveal truths about design and purpose in creation, which he plans to elaborate on through discussions of both fossilized plants and animals in the lectures that follow. This introduction highlights his intent to bridge the gap between scientific inquiry and faith, promising an engaging discourse that appeals to both scientific and theological audiences. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cb43-daa7-74bd-9cce-25f07e1de4a4",
+    "name": "The Christian View of the Old Testament",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Frederick Carl Eiselen"
+      ],
+      "goodreadsRating": {
+        "rating": 4.29,
+        "count": 7
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cb43-daa7-74bd-9cce-25f07e1de4a4/0197cb43-daa7-74bd-9cce-25f07e1de4a4.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cb43-daa7-74bd-9cce-25f07e1de4a4/0197cb43-daa7-74bd-9cce-25f07e1de4a4.jpg?width=720&height=1080"
+    },
+    "description": "\"The Christian View of the Old Testament\" by Frederick Carl Eiselen is a theological treatise written in the early 20th century. This work explores the relationship between the Old Testament and Christian thought, providing an analysis of how the latter interprets and values the former within the context of modern beliefs and scientific advancements. Eiselen aims to reaffirm the significance of the Old Testament in Christian doctrine and practice, asserting its continued relevance despite contemporary challenges.  At the start of the book, the author introduces the shifting attitudes towards the Bible in the previous fifty years, noting a departure from unwavering confidence to uncertainty regarding its role in faith. The preface sets the stage for examining the New Testament's perspective on the Old Testament, arguing that early Christians viewed the Old Testament as foundational to their beliefs. Eiselen emphasizes the necessity of understanding the Old Testament's purpose in enriching moral and spiritual development, correlating its teachings with the life and mission of Jesus Christ, thereby underscoring its enduring validity in the Christian faith. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c2d2-86da-74a4-a5ba-2ac24b299ad4",
+    "name": "Weymouth New Testament in Modern Speech, Jude",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Richard Francis Weymouth"
+      ],
+      "goodreadsRating": {
+        "rating": 4.67,
+        "count": 6
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c2d2-86da-74a4-a5ba-2ac24b299ad4/0197c2d2-86da-74a4-a5ba-2ac24b299ad4.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c2d2-86da-74a4-a5ba-2ac24b299ad4/0197c2d2-86da-74a4-a5ba-2ac24b299ad4.jpg?width=720&height=1080"
+    },
+    "description": "\"Weymouth New Testament in Modern Speech, Jude\" by Richard Francis Weymouth is a modern translation of the Biblical epistle of Jude, published in the early 20th century. This publication is a religious text that offers an accessible interpretation of Jude's message, emphasizing its relevance for contemporary readers. The book is aimed at providing an understanding of Jude’s warnings against false teachers and the importance of maintaining faith within the early Christian community.  In this letter, Jude identifies himself as a servant of Jesus Christ and introduces a call to action for believers to defend their faith against those who distort it. He warns of ungodly individuals who have infiltrated the church, drawing parallels to historical examples of judgment from scripture, including the downfall of the Israelites in Egypt and the fate of Sodom and Gomorrah. Jude encourages his readers to build themselves up in their faith, remain vigilant, and show compassion towards those who stray, while also assuring them of God’s ability to preserve them. The message culminates in a doxology that praises God’s everlasting power and dominion. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cbe9-6468-712d-b084-e457eb36f907",
+    "name": "What was the Gunpowder Plot? The Traditional Story Tested by Original Evidence",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "John Gerard"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 6
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cbe9-6468-712d-b084-e457eb36f907/0197cbe9-6468-712d-b084-e457eb36f907.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cbe9-6468-712d-b084-e457eb36f907/0197cbe9-6468-712d-b084-e457eb36f907.jpg?width=720&height=1080"
+    },
+    "description": "\"What was the Gunpowder Plot? The Traditional Story Tested by Original Evidence\" by John Gerard, S.J. is a historical account written in the late 19th century. This work investigates the infamous Gunpowder Plot of 1605, challenging conventional narratives and exploring the authenticity of the evidence surrounding the conspiracy that aimed to assassinate King James I and destroy Parliament. The book seeks to provide a deeper understanding of both the events and the motivations behind them, particularly focusing on the role of Catholics in the plot.  The opening of the book sets the stage by recounting the discovery of the plot on November 5, 1605, when Guy Faukes was apprehended with gunpowder underneath the House of Lords. It outlines the immediate aftermath of the plotters' arrest, detailing the flights and captures of various conspirators and the subsequent trials. Gerard emphasizes the official narrative that painted the plot as a Catholic conspiracy, questioning its reliability and hinting at a more complex political backdrop where the government may have had prior knowledge or even involvement in manipulating the events for its own gain. This initial examination raises important questions about the motivations behind the plot and the portrayal of its conspirators. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197ca20-875f-7438-af39-8c5aec8dae4a",
+    "name": "La testa della vipera",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Vittorio Bersezio"
+      ],
+      "goodreadsRating": {
+        "rating": 3.83,
+        "count": 6
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ca20-875f-7438-af39-8c5aec8dae4a/0197ca20-875f-7438-af39-8c5aec8dae4a.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ca20-875f-7438-af39-8c5aec8dae4a/0197ca20-875f-7438-af39-8c5aec8dae4a.jpg?width=720&height=1080"
+    },
+    "description": "\"La testa della vipera\" by Vittorio Bersezio is a novel written in the late 19th century. The story unfolds against a backdrop of social intrigue, focusing primarily on the troubled life of Lorenzo Lograve, a man grappling with the consequences of his gambling addiction and a complex relationship with his wife, Luisa, and his manipulative governess, Marianna.   The opening of the novel introduces us to a tense moment where Lorenzo is engrossed in a late-night card game, unaware of the catastrophic state of affairs awaiting him at home. A servant announces that a woman is desperately seeking him, revealing that his wife is gravely ill. The narrative quickly transitions from the smoky atmosphere of the club to the ominous silence of his home, where Lorenzo's indifference ultimately culminates in tragedy. This early section sets the stage for a deeply emotional exploration of loss, guilt, and the impact of selfish choices, hinting at the dark and turbulent journey ahead for the characters involved. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd4c-cebf-70ff-b4cb-2ae3ca1a1286",
+    "name": "Grimm testvérek összegyüjtött meséi",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Jacob Grimm",
+        "Wilhelm Grimm"
+      ],
+      "goodreadsRating": {
+        "rating": 4.8,
+        "count": 5
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd4c-cebf-70ff-b4cb-2ae3ca1a1286/0197cd4c-cebf-70ff-b4cb-2ae3ca1a1286.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd4c-cebf-70ff-b4cb-2ae3ca1a1286/0197cd4c-cebf-70ff-b4cb-2ae3ca1a1286.jpg?width=720&height=1080"
+    },
+    "description": "\"Grimm testvérek összegyüjtött meséi\" by Jacob Grimm and Wilhelm Grimm is a collection of fairy tales written in the early 19th century. This anthology features a variety of enchanting stories that encompass themes of magic, morality, and adventure, primarily focusing on characters such as princes, princesses, and animals endowed with human traits. Readers can expect to encounter timeless narratives that have been passed down through generations, often with valuable lessons at their core.  The opening of the collection introduces several fairy tales, beginning with \"A békakirályfi\" (The Frog Prince). It tells the story of a beautiful princess who loses her golden ball in a well and is aided by a frog who demands her friendship in return. The frog ultimately reveals itself as a prince under a spell. The text immerses the reader in a magical world where promises and transformations intertwine, setting the stage for a series of adventures involving enchanted animals, diligent siblings, and various trials that illustrate virtues such as loyalty, bravery, and redemption. This initial tale serves as a classic example of the whimsical yet morally insightful tales that characterize the entire collection. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d4e0-7ad5-7010-9b85-998d3a3c18d6",
+    "name": "A Biblia Sagrada, Contendo o Velho e o Novo Testamento",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 5
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d4e0-7ad5-7010-9b85-998d3a3c18d6/0197d4e0-7ad5-7010-9b85-998d3a3c18d6.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d4e0-7ad5-7010-9b85-998d3a3c18d6/0197d4e0-7ad5-7010-9b85-998d3a3c18d6.jpg?width=720&height=1080"
+    },
+    "description": "\"A Biblia Sagrada, Contendo o Velho e o Novo Testamento\" by João Ferreira d'Almeida is a religious text written in the early 20th century. This edition serves as a Portuguese translation of the Bible, meticulously compiled to present both the Old and New Testaments. The likely focus of this work is to provide readers with a comprehensive understanding of biblical scripture, alongside references and annotations for context.  The opening of this translation presents the Genesis account of creation, detailing God's creation of the heavens and the earth, the formation of light and darkness, as well as the creation of mankind in His image. It narrates the establishment of the Garden of Eden, the introduction of Adam and Eve, and the important moral dilemmas they face, such as the temptation by the serpent and the subsequent fall from grace. This beginning sets the stage for exploring themes of creation, sin, and divine covenant, foundational elements that are pivotal to the larger biblical narrative. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd58-beba-73af-9030-abd1b94fcb46",
+    "name": "The Testimony of Tradition",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "David MacRitchie"
+      ],
+      "goodreadsRating": {
+        "rating": 3.6,
+        "count": 5
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd58-beba-73af-9030-abd1b94fcb46/0197cd58-beba-73af-9030-abd1b94fcb46.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd58-beba-73af-9030-abd1b94fcb46/0197cd58-beba-73af-9030-abd1b94fcb46.jpg?width=720&height=1080"
+    },
+    "description": "\"The Testimony of Tradition\" by David MacRitchie is an ethnographic study written in the late 19th century. The text explores the folklore and cultural heritage of the Norse and their relations with the Finns, as well as the legendary figures that inhabit the myths surrounding these groups, particularly in the context of Shetland and Orkney. The book delves into the significance of these traditions and how they have endured over centuries, shedding light on the interplay between history, mythology, and identity.  The opening of the book introduces the concept of the \"Finns,\" mythical beings in Shetlandic tales who can transform into seals. The text begins with a discussion of these folklore characters, suggesting that they represent a blend of mythological and historical elements of Norse seafarers. It recounts various stories wherein Finn women are captured by Shetlanders, leading to cultural intermingling and the birth of children believed to be descendants of these magical beings. This sets the stage for deeper investigations into the roots of these legends and their implications for understanding the cultural landscape of the isles. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c239-f4c1-7700-a7a3-7b061da0b5cc",
+    "name": "Reina Valera New Testament of the Bible 1865",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.5,
+        "count": 4
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c239-f4c1-7700-a7a3-7b061da0b5cc/0197c239-f4c1-7700-a7a3-7b061da0b5cc.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c239-f4c1-7700-a7a3-7b061da0b5cc/0197c239-f4c1-7700-a7a3-7b061da0b5cc.jpg?width=720&height=1080"
+    },
+    "description": "\"The Reina Valera New Testament of the Bible 1865\" by Reina and Valera is a religious text, likely produced in the mid-19th century. This version of the New Testament offers a Spanish translation of key Christian scriptures, intended for readers seeking a historical perspective on biblical texts and their interpretations. The work emphasizes the lineage and life of Jesus Christ, as well as important theological teachings that are central to Christian faith.  The opening of this New Testament presents a detailed account of Jesus Christ's genealogy, tracing his lineage from Abraham through David, and culminating in the story of his birth and early life. It introduces pivotal moments such as the angel's announcement to Joseph, the visit of the Magi, and Herod's order to kill children in Bethlehem, which sets the stage for the theological themes of sacrifice, redemption, and the fulfillment of prophecy. Throughout the early chapters, the text outlines foundational teachings of Jesus, showcasing his miracles, his interactions with disciples, and his teachings on faith and righteousness, establishing the framework for the New Testament narrative. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c2d1-b217-75bf-9f81-895579856f2a",
+    "name": "Weymouth New Testament in Modern Speech, Luke",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Richard Francis Weymouth"
+      ],
+      "goodreadsRating": {
+        "rating": 4.33,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c2d1-b217-75bf-9f81-895579856f2a/0197c2d1-b217-75bf-9f81-895579856f2a.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c2d1-b217-75bf-9f81-895579856f2a/0197c2d1-b217-75bf-9f81-895579856f2a.jpg?width=720&height=1080"
+    },
+    "description": "\"Weymouth New Testament in Modern Speech, Luke\" by Richard Francis Weymouth is a modern English translation of the biblical Gospel of Luke, likely written in the early 20th century. This work focuses on presenting the life and teachings of Jesus Christ through the lens of Luke, a physician and historical researcher, emphasizing a clear understanding of Christian narratives and theological concepts for contemporary readers.  The opening of this text introduces the purpose behind Weymouth's translation, as Luke aims to provide a comprehensive account of the life of Jesus, based on eyewitness testimonies. We encounter significant characters such as Zechariah and Elizabeth, who long for a child, and Mary, who receives a divine announcement of her role in bearing Jesus. The narrative showcases the dramatic announcements from the Angel Gabriel to both Zechariah and Mary, revealing the miraculous nature of their circumstances. From the start, the text sets a tone of reverence for the holy events and characters involved, while also making it accessible for modern readers by using contemporary language. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c2d2-4ff0-7416-b08e-a799a9ce694c",
+    "name": "Weymouth New Testament in Modern Speech, James",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Richard Francis Weymouth"
+      ],
+      "goodreadsRating": {
+        "rating": 4.33,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c2d2-4ff0-7416-b08e-a799a9ce694c/0197c2d2-4ff0-7416-b08e-a799a9ce694c.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c2d2-4ff0-7416-b08e-a799a9ce694c/0197c2d2-4ff0-7416-b08e-a799a9ce694c.jpg?width=720&height=1080"
+    },
+    "description": "\"Weymouth New Testament in Modern Speech, James\" by Richard Francis Weymouth is a modern translation of the biblical book of James, produced in the early 20th century. This work falls into the category of religious literature, specifically a translation of Christian scripture intended for contemporary readers. The book aims to convey the teachings and ethical instructions found in the traditional epistle attributed to James, who is believed to have been a leader in the early Christian church.  The text addresses various themes relevant to Christian living, including the importance of faith demonstrated through actions, the need for patience during trials, and the significance of humility and compassion. It encourages believers to find joy in adversity and emphasizes the necessity of applying their faith in practical ways, such as aiding the less fortunate and controlling their speech. The epistle provides a moral framework for living a righteous life, warning against partiality and urging perseverance as believers await the fulfillment of God's promises. Through clear and accessible language, Weymouth's translation offers readers a fresh perspective on this important New Testament text. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c2d1-fb79-75ad-9a4a-dbbb9b162260",
+    "name": "Weymouth New Testament in Modern Speech, Philippians",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Richard Francis Weymouth"
+      ],
+      "goodreadsRating": {
+        "rating": 3.67,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c2d1-fb79-75ad-9a4a-dbbb9b162260/0197c2d1-fb79-75ad-9a4a-dbbb9b162260.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c2d1-fb79-75ad-9a4a-dbbb9b162260/0197c2d1-fb79-75ad-9a4a-dbbb9b162260.jpg?width=720&height=1080"
+    },
+    "description": "\"Weymouth New Testament in Modern Speech, Philippians\" by Richard Francis Weymouth is a modern English translation of the Biblical book of Philippians, likely written in the early 20th century. This publication aims to make the original text accessible to contemporary readers while maintaining its theological significance. The book focuses on the themes of joy, unity, and perseverance in faith amidst adversity, reflecting on the foundations of Christian belief.  In this epistle, Paul, the author, addresses the congregation in Philippi, expressing gratitude for their partnership in spreading the Gospel. He shares his personal circumstances, emphasizing his imprisonment for Christ and the confidence he has in God's plan. Paul encourages the Philippians to emulate Christ's humility and to stand united in their faith, facing challenges without fear. He also reflects on his own journey towards spiritual maturity, urging the community to focus on godly virtues. Concluding with a message of peace and encouragement, Paul acknowledges the support he has received from the Church in Philippi while affirming that God will supply all their needs. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c6b8-f772-7523-b8d9-e1ba1f22324c",
+    "name": "The Grounds of Christianity Examined by Comparing The New Testament with the Old",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "George Bethune English"
+      ],
+      "goodreadsRating": {
+        "rating": 3.33,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c6b8-f772-7523-b8d9-e1ba1f22324c/0197c6b8-f772-7523-b8d9-e1ba1f22324c.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c6b8-f772-7523-b8d9-e1ba1f22324c/0197c6b8-f772-7523-b8d9-e1ba1f22324c.jpg?width=720&height=1080"
+    },
+    "description": "\"The Grounds of Christianity Examined by Comparing the New Testament with the Old\" by George Bethune English is a historical and theological analysis written in the early 19th century. This work critically evaluates the claims of Christianity, particularly how the New Testament relates to Old Testament prophecies regarding the Messiah. The author embarks on an examination of the arguments presented by early Christian writers and apologists, aiming to determine whether the character of Jesus of Nazareth aligns with the messianic predictions provided by the Hebrew prophets.  The opening portion of the text sets the stage for an intellectual exploration of Christianity's foundations, emphasizing the importance of understanding and validating religious beliefs through reasoned examination. In the preface, English articulates the necessity for open discourse about sacred doctrines, arguing that truth will ultimately prevail through rigorous scrutiny rather than through blind acceptance. He introduces the central thesis that the Messiah’s attributes—foretold in the Old Testament—must align with Jesus to substantiate Christian claims. The opening chapters outline the argumentative structure, where English intends to offer a thorough analysis of both the New Testament's assertions about Jesus and the Old Testament prophecies that purportedly support those claims. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d7b4-939f-76dc-863b-8ca83dd553bf",
+    "name": "Names and places in the Old and New Testament and Apocrypha, with their modern identifications",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 3.33,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d7b4-939f-76dc-863b-8ca83dd553bf/0197d7b4-939f-76dc-863b-8ca83dd553bf.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d7b4-939f-76dc-863b-8ca83dd553bf/0197d7b4-939f-76dc-863b-8ca83dd553bf.jpg?width=720&height=1080"
+    },
+    "description": "\"Names and Places in the Old and New Testament and Apocrypha, with Their Modern Identifications\" by George Armstrong is a reference work written in the late 19th century. This compilation serves as a detailed index and guide for identifying biblical locations mentioned in the Old Testament, New Testament, and Apocryphal texts, alongside their modern counterparts. The work aims to assist scholars and readers in correlating biblical geography with contemporary sites.  The opening of the text includes a transcriber’s note detailing typographical conventions that will be used throughout the work, followed by the preface which outlines how the index was constructed from various sources, including significant biblical dictionaries and surveys of historical areas. Armstrong notes that the index will include more than 1,150 names from the Old Testament and Apocrypha, along with 162 names from the New Testament, and explains the methods and references used for modern identifications, indicating a serious scholarly approach to biblical geography. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd53-d8bb-7094-a810-c88dbb278c6d",
+    "name": "Thomas Paine, the Apostle of Liberty: An Address Delivered in Chicago, January 29, 1916; Including the Testimony of Five Hundred Witnesses",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "John E. (John Eleazer) Remsburg"
+      ],
+      "goodreadsRating": {
+        "rating": 3,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd53-d8bb-7094-a810-c88dbb278c6d/0197cd53-d8bb-7094-a810-c88dbb278c6d.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd53-d8bb-7094-a810-c88dbb278c6d/0197cd53-d8bb-7094-a810-c88dbb278c6d.jpg?width=720&height=1080"
+    },
+    "description": "\"Thomas Paine, the Apostle of Liberty\" by John E. Remsburg is a historical account written in the early 20th century. The text serves as both a tribute and defense of Thomas Paine, a revolutionary figure instrumental in shaping the principles of liberty and independence in America and France. It highlights Paine's crucial role in advocating for American independence through his writings, particularly \"Common Sense,\" and his subsequent influence during the French Revolution.  The opening of the work sets the context for a celebration of Thomas Paine's legacy, framing him as a misunderstood hero of liberty. It discusses his early life, transitional journey to America, and the profound impact of his writings on the American Revolution. Remsburg emphasizes Paine's unwavering commitment to liberty, characterizing him as a martyr for the ideals he championed, and delves into the challenges he faced, including persecution and misrepresentation. The text introduces Paine's philosophy and moral fortitude, foreshadowing a detailed exploration of his contributions and the injustices he endured, positioning him as a key figure in the pursuit of human rights and social justice. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0196b4ef-706a-76f7-8629-2e6140c086a4",
+    "name": "Harry Potter and Methods of Rationality",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "speechify",
+    "details": {
+      "authors": [
+        "Anonymous"
+      ],
+      "goodreadsRating": {
+        "rating": 4.38,
+        "count": 18262
+      },
+      "chapters": [
+        {
+          "title": "Chapter 1: A Day of Very Low Probability"
+        },
+        {
+          "title": "Chapter 2: Everything I Believe Is False"
+        },
+        {
+          "title": "Chapter 3: Comparing Reality To Its Alternatives"
+        },
+        {
+          "title": "Chapter 4: The Efficient Market Hypothesis"
+        },
+        {
+          "title": "Chapter 5: The Fundamental Attribution Error"
+        },
+        {
+          "title": "Chapter 6: The Planning Fallacy"
+        },
+        {
+          "title": "Chapter 7: Reciprocation"
+        },
+        {
+          "title": "Chapter 8: Positive Bias"
+        },
+        {
+          "title": "Chapter 9: Title Redacted, Part I"
+        },
+        {
+          "title": "Chapter 10: Self Awareness, Part II"
+        },
+        {
+          "title": "Chapter 11: Omake Files 1, 2, 3"
+        },
+        {
+          "title": "Chapter 12: Impulse Control"
+        },
+        {
+          "title": "Chapter 13: Asking the Wrong Questions"
+        },
+        {
+          "title": "Chapter 14: The Unknown and the Unknowable"
+        },
+        {
+          "title": "Chapter 15: Conscientiousness"
+        },
+        {
+          "title": "Chapter 16: Lateral Thinking"
+        },
+        {
+          "title": "Chapter 17: Locating the Hypothesis"
+        },
+        {
+          "title": "Chapter 18: Dominance Hierarchies"
+        },
+        {
+          "title": "Chapter 19: Delayed Gratification"
+        },
+        {
+          "title": "Chapter 20: Bayes's Theorem"
+        },
+        {
+          "title": "Chapter 21: Rationalization"
+        },
+        {
+          "title": "Chapter 22: The Scientific Method"
+        },
+        {
+          "title": "Chapter 23: Belief in Belief"
+        },
+        {
+          "title": "Chapter 24: Machiavellian Intelligence Hypothesis"
+        },
+        {
+          "title": "Chapter 25: Hold Off on Proposing Solutions"
+        },
+        {
+          "title": "Chapter 26: Noticing Confusion"
+        },
+        {
+          "title": "Chapter 27: Empathy"
+        },
+        {
+          "title": "Chapter 28: Reductionism"
+        },
+        {
+          "title": "Chapter 29: Egocentric Bias"
+        },
+        {
+          "title": "Chapter 30: Working in Groups, Pt 1"
+        },
+        {
+          "title": "Chapter 31: Working in Groups, Pt 2"
+        },
+        {
+          "title": "Chapter 32: Interlude: Personal Financial Management"
+        },
+        {
+          "title": "Chapter 33: Coordination Problems, Pt 1"
+        },
+        {
+          "title": "Chapter 34: Coordination Problems, Pt 2"
+        },
+        {
+          "title": "Chapter 35: Coordination Problems, Pt 3"
+        },
+        {
+          "title": "Chapter 36: Status Differentials"
+        },
+        {
+          "title": "Chapter 37: Interlude: Crossing the Boundary"
+        },
+        {
+          "title": "Chapter 38: The Cardinal Sin"
+        },
+        {
+          "title": "Chapter 39: Pretending to be Wise, Pt 1"
+        },
+        {
+          "title": "Chapter 40: Pretending to be Wise, Pt 2"
+        },
+        {
+          "title": "Chapter 41: Frontal Override"
+        },
+        {
+          "title": "Chapter 42: Courage"
+        },
+        {
+          "title": "Chapter 43: Humanism, Pt 1"
+        },
+        {
+          "title": "Chapter 44: Humanism, Pt 2"
+        },
+        {
+          "title": "Chapter 45: Humanism, Pt 3"
+        },
+        {
+          "title": "Chapter 46: Humanism, Pt 4"
+        },
+        {
+          "title": "Chapter 47: Personhood Theory"
+        },
+        {
+          "title": "Chapter 48: Utilitarian Priorities"
+        },
+        {
+          "title": "Chapter 49: Prior Information"
+        },
+        {
+          "title": "Chapter 50: Self Centeredness"
+        },
+        {
+          "title": "Chapter 51: Title Redacted, Pt 1"
+        },
+        {
+          "title": "Chapter 52: The Stanford Prison Experiment, Pt 2"
+        },
+        {
+          "title": "Chapter 53: The Stanford Prison Experiment, Pt 3"
+        },
+        {
+          "title": "Chapter 54: The Stanford Prison Experiment, Pt 4"
+        },
+        {
+          "title": "Chapter 55: The Stanford Prison Experiment, Pt 5"
+        },
+        {
+          "title": "Chapter 56: TSPE, Constrained Optimization, Pt 6"
+        },
+        {
+          "title": "Chapter 57: TSPE, Constrained Cognition, Pt 7"
+        },
+        {
+          "title": "Chapter 58: TSPE, Constrained Cognition, Pt 8"
+        },
+        {
+          "title": "Chapter 59: TSPE, Curiosity, Pt 9"
+        },
+        {
+          "title": "Chapter 60: The Stanford Prison Experiment, Pt 10"
+        },
+        {
+          "title": "Chapter 61: TSPE, Secrecy and Openness, Pt 11"
+        },
+        {
+          "title": "Chapter 62: The Stanford Prison Experiment, Final"
+        },
+        {
+          "title": "Chapter 63: TSPE, Aftermaths"
+        },
+        {
+          "title": "Chapter 64: Omake Files 4, Alternate Parallels"
+        },
+        {
+          "title": "Chapter 65: Contagious Lies"
+        },
+        {
+          "title": "Chapter 66: Self Actualization, Pt 1"
+        },
+        {
+          "title": "Chapter 67: Self Actualization, Pt 2"
+        },
+        {
+          "title": "Chapter 68: Self Actualization, Pt 3"
+        },
+        {
+          "title": "Chapter 69: Self Actualization, Pt 4"
+        },
+        {
+          "title": "Chapter 70: Self Actualization, Pt 5"
+        },
+        {
+          "title": "Chapter 71: Self Actualization, Pt 6"
+        },
+        {
+          "title": "Chapter 72: SA, Plausible Deniability, Pt 7"
+        },
+        {
+          "title": "Chapter 73: SA, The Sacred and the Mundane, Pt 8"
+        },
+        {
+          "title": "Chapter 74: SA, Escalation of Conflicts, Pt 9"
+        },
+        {
+          "title": "Chapter 75: Self Actualization Final, Responsibility"
+        },
+        {
+          "title": "Chapter 76: Interlude with the Confessor: Sunk Costs"
+        },
+        {
+          "title": "Chapter 77: SA, Aftermaths: Surface Appearances"
+        },
+        {
+          "title": "Chapter 78: Taboo Tradeoffs Prelude: Cheating"
+        },
+        {
+          "title": "Chapter 79: Taboo Tradeoffs, Pt 1"
+        },
+        {
+          "title": "Chapter 80: Taboo Tradeoffs, Pt 2, The Horns Effect"
+        },
+        {
+          "title": "Chapter 81: Taboo Tradeoffs, Pt 3"
+        },
+        {
+          "title": "Chapter 82: Taboo Tradeoffs, Final"
+        },
+        {
+          "title": "Chapter 83: Taboo Tradeoffs, Aftermath 1"
+        },
+        {
+          "title": "Chapter 84: Taboo Tradeoffs, Aftermath 2"
+        },
+        {
+          "title": "Chapter 85: Taboo Tradeoffs, Aftermath 3, Distance"
+        },
+        {
+          "title": "Chapter 86: Multiple Hypothesis Testing"
+        },
+        {
+          "title": "Chapter 87: Hedonic Awareness"
+        },
+        {
+          "title": "Chapter 88: Time Pressure, Pt 1"
+        },
+        {
+          "title": "Chapter 89: Time Pressure, Pt 2"
+        },
+        {
+          "title": "Chapter 90: Roles, Pt 1"
+        },
+        {
+          "title": "Chapter 91: Roles, Pt 2"
+        },
+        {
+          "title": "Chapter 92: Roles, Pt 3"
+        },
+        {
+          "title": "Chapter 93: Roles, Pt 4"
+        },
+        {
+          "title": "Chapter 94: Roles, Pt 5"
+        },
+        {
+          "title": "Chapter 95: Roles, Pt 6"
+        },
+        {
+          "title": "Chapter 96: Roles, Pt 7"
+        },
+        {
+          "title": "Chapter 97: Roles, Pt 8"
+        },
+        {
+          "title": "Chapter 98: Roles, Final"
+        },
+        {
+          "title": "Chapter 99: Roles, Aftermath"
+        },
+        {
+          "title": "Chapter 100: Precautionary Measures, Pt 1"
+        },
+        {
+          "title": "Chapter 101: Precautionary Measures, Pt 2"
+        },
+        {
+          "title": "Chapter 102: Caring"
+        },
+        {
+          "title": "Chapter 103: Tests"
+        },
+        {
+          "title": "Chapter 104: The Truth, Pt 1, Riddles and Answers"
+        },
+        {
+          "title": "Chapter 105: The Truth, Pt 2"
+        },
+        {
+          "title": "Chapter 106: The Truth, Pt 3"
+        },
+        {
+          "title": "Chapter 107: The Truth, Pt 4"
+        },
+        {
+          "title": "Chapter 108: The Truth, Pt 5, Answers and Riddles"
+        },
+        {
+          "title": "Chapter 109: Reflections"
+        },
+        {
+          "title": "Chapter 110: Reflections, Pt 2"
+        },
+        {
+          "title": "Chapter 111: Failure, Pt 1"
+        },
+        {
+          "title": "Chapter 112: Failure, Pt 2"
+        },
+        {
+          "title": "Chapter 113: Final Exam"
+        },
+        {
+          "title": "Chapter 114: Shut Up and Do The Impossible"
+        },
+        {
+          "title": "Chapter 115: Shut Up and Do The Impossible, Pt 2"
+        },
+        {
+          "title": "Chapter 116: Aftermath, Something to Protect, Pt 0"
+        },
+        {
+          "title": "Chapter 117: Something to Protect: Minerva McGonagall"
+        },
+        {
+          "title": "Chapter 118: Something to Protect: Professor Quirrell"
+        },
+        {
+          "title": "Chapter 119: Something to Protect: Albus Dumbledore"
+        },
+        {
+          "title": "Chapter 120: Something to Protect: Draco Malfoy"
+        },
+        {
+          "title": "Chapter 121: Something to Protect: Severus Snape"
+        },
+        {
+          "title": "Chapter 122: Something to Protect: Hermione Granger"
+        }
+      ],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0196b4ef-706a-76f7-8629-2e6140c086a4/0196b4ef-706a-76f7-8629-2e6140c086a4.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0196b4ef-706a-76f7-8629-2e6140c086a4/0196b4ef-706a-76f7-8629-2e6140c086a4.jpg?width=720&height=1080"
+    },
+    "description": "\n\t\t\tIn this alternate universe, Lily Potter magically beautified Petunia Evans, letting her abandon Vernon Dursley and marry Oxford professor Michael Verres. They adopt Harry Potter as Harry James Potter-Evans-Verres, with him and Michael unaware of his magical heritage, and homeschool him in science and rationality. When Harry turns 11, Petunia and Professor McGonagall inform him and Michael about the wizarding world and Harry's defeat of Lord Voldemort. Harry becomes irritated over wizarding society's inconsistencies and backwardness. When boarding the Hogwarts Express, circumstances make Harry befriend Draco Malfoy over Ron Weasley. Harry also befriends Hermione Granger over their scientific inclinations.\n\n\t\t\tAt Hogwarts, the Sorting Hat sends Hermione to Ravenclaw and Draco to Slytherin. Harry almost goes to Slytherin after a conversation with it, yet ultimately enters Ravenclaw. As school begins, Harry grows close with Professor Quirrell and tests magic through the scientific method with Draco and Hermione. By testing timeless physics, Harry invents partial Transfiguration, a magical transmutation variant to transform only parts of wholes. Quirrell starts a program involving three \"student armies\" with Harry, Draco, and Hermione as generals.\n\n\t\t\tAfter winter break, Quirrell procures a Dementor so students can learn the Patronus charm. Though Hermione and Harry initially fail, Harry manages to comprehend Dementors as shadows of death. Resolving to defeat death, he invents the True Patronus charm and destroys the Dementor. After learning the regular Patronus, Draco discovers Harry can speak Parseltongue. Quirrell reveals himself as a snake Animagus to Harry and makes him help free Bellatrix Black from Azkaban and leave her in hiding. Headmaster Dumbledore learns about the prison break but not the participants, leading him to confine Harry to Hogwarts as a precaution.\n\n\t\t\tAfter army battles and bullying incidents, Hermione establishes the organization S.P.H.E.W. to protest the lack of witch heroines despite the wizarding world's remarkable gender equality. Suddenly, she gets accused of Draco's attempted murder. Harry pays his fortune to Lucius Malfoy, Draco's father, to save Hermione from Azkaban, after which Lucius withdraws Draco from Hogwarts. Harry and the staff theorize that Quirrell is David Monroe, a long-missing opponent of Voldemort. Not long after, a mountain troll enters Hogwarts and kills Hermione before Harry manages to kill it. Grieving, Harry vows to resurrect Hermione and steals her body. Harry absolves the Malfoys of guilt in Hermione's murder in exchange for Lucius returning his money, exonerating Hermione, and sending Draco back to Hogwarts.\n\n\t\t\tQuirrell starts eating unicorns to stave off death from a supposed disease. Near the end of the year, he captures Harry, revealing himself as Voldemort's spirit possessing Quirrell and how he framed Hermione, then murdered her with the troll. He threatens to massacre students unless Harry aids him in stealing the Philosopher's Stone, an artifact for performing true transmutation, as Transfiguration is otherwise temporary. Harry agrees after Voldemort promises to help resurrect Hermione, and they reach the Mirror of Erised in Hogwarts, managing to coax the Stone from it. When Dumbledore appears and tries to banish Voldemort outside time, Voldemort threatens Harry, forcing Dumbledore to seal himself instead. Voldemort's spirit abandons Quirrell and embodies using the Stone, after which he and Harry resurrect Hermione with the power of the Stone and Harry's True Patronus. Voldemort murders Quirrell for a ritual to give Hermione a Horcrux and the magic of a mountain troll and unicorn, rendering her near-immortal before summoning Lucius and his other Death Eaters. Knowing Harry is prophesied to destroy the world, Voldemort forces Harry into a magical oath never to risk doing so before ordering Harry's murder. Cornered, Harry kills every Death Eater at once with partial Transfiguration, stuns Voldemort, wipes most of his memories, and turns him into a jewel on Harry's ring. Harry claims the Philosopher's Stone and stages a scene to make it appear like \"David Monroe\" died defeating Voldemort and resurrected Hermione.\n\n\t\t\tIn the battle's aftermath, Harry obtains Dumbledore's letters from the staff, learning that Dumbledore has gambled the world on him due to prophecies. With Voldemort defeated, Harry helps a grieving Draco find his missing mother, Narcissa Malfoy, whom Draco believed Dumbledore had murdered. He plans with the newly resurrected Hermione to overhaul wizarding society and grant everyone immortality and healing with the Stone's power.\n\t\t"
+  },
+  {
+    "id": "0197ca66-1c6b-77bc-bfd0-81860869cc25",
+    "name": "Sir Harry Hotspur of Humblethwaite",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anthony Trollope"
+      ],
+      "goodreadsRating": {
+        "rating": 3.52,
+        "count": 501
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197ca66-1c6b-77bc-bfd0-81860869cc25/0197ca66-1c6b-77bc-bfd0-81860869cc25.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197ca66-1c6b-77bc-bfd0-81860869cc25/0197ca66-1c6b-77bc-bfd0-81860869cc25.jpg?width=720&height=1080"
+    },
+    "description": "\"Sir Harry Hotspur of Humblethwaite\" by Anthony Trollope is a novel written in the late 19th century. The story revolves around Sir Harry Hotspur, the well-to-do baronet of Humblethwaite, and his complexities regarding family legacy, duty, and the challenges posed by his only daughter Emily's future. The narrative explores themes of societal expectations, personal choices, and the significance of family honor in the face of changing circumstances.  The beginning of the novel introduces readers to Sir Harry Hotspur, a nobleman grappling with the recent death of his only son and the implications it has on the future of his lineage and estate. While he mourns this loss, he is faced with the responsibility of determining how to manage his extensive property and legacy, particularly considering his daughter’s status as an heiress. In this opening portion, we also meet Lady Elizabeth, Sir Harry's wife, who supports him through their shared grief while navigating societal pressures surrounding their daughter’s marriage prospects, particularly concerning her cousin George and the more suitable Lord Alfred Gresley. The characters' interactions set the stage for a storyline rich with themes of love, honor, and the complexities of familial expectations. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "01967c82-81e8-740b-aee5-9d11251f1ecd",
+    "name": "Harry Heathcote of Gangoil",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anthony Trollope"
+      ],
+      "goodreadsRating": {
+        "rating": 3.4,
+        "count": 263
+      },
+      "chapters": [
+        {
+          "title": "I"
+        },
+        {
+          "title": "II"
+        },
+        {
+          "title": "III"
+        },
+        {
+          "title": "IV"
+        },
+        {
+          "title": "V"
+        },
+        {
+          "title": "VI"
+        },
+        {
+          "title": "VII"
+        },
+        {
+          "title": "VIII"
+        },
+        {
+          "title": "IX"
+        },
+        {
+          "title": "X"
+        },
+        {
+          "title": "XI"
+        },
+        {
+          "title": "XII"
+        },
+        {
+          "title": "Harry Heathcote of Gangoil"
+        }
+      ],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/01967c82-81e8-740b-aee5-9d11251f1ecd/01967c82-81e8-740b-aee5-9d11251f1ecd.webp?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/01967c82-81e8-740b-aee5-9d11251f1ecd/01967c82-81e8-740b-aee5-9d11251f1ecd.webp?width=720&height=1080"
+    },
+    "description": "\n\t\t\t<p>Harry Heathcote is a young immigrant “squatter,” farming thousands of acres in Queensland, Australia. His strong personality wins the loyalty of friends and family. But that same imperious nature makes him enemies, too, who would like nothing more than to see him ruined. As Christmas approaches, the conditions for his ruin arise naturally in the intense, scorching heat of a southern hemisphere summer. His enemies, however, spot an opportunity to give nature a helping hand. Their sharp conflict contrasts with a muted romantic subplot—but even here, Heathcote’s tone and temper complicate the path of true love.</p>\n\t\t\t<p>An invitation to produce a “Christmas story” came while <a href=\"https://standardebooks.org/ebooks/anthony-trollope\">Anthony Trollope</a> was writing <i><a href=\"https://standardebooks.org/ebooks/anthony-trollope/the-way-we-live-now\">The Way We Live Now</a></i>. <i>Harry Heathcote</i> was the result, fulfilling the brief, but without the “humbug” that Trollope believed marred too much writing in that genre.</p>\n\t\t\t<p><i>Harry Heathcote</i> is one of Trollope’s shorter novels, but still displays his sharp psychological insight into his leading characters, and his capacity to produce natural dialog. It also draws on his first-hand knowledge of his son’s experience of farming in Australia, observed during Trollope’s extended tour of the Antipodes in 1871.</p>\n\t\t"
+  },
+  {
+    "id": "0197c217-da5b-718d-9ef8-bffb3954ba60",
+    "name": "Harry Heathcote of Gangoil: A Tale of Australian Bush-Life",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Anthony Trollope"
+      ],
+      "goodreadsRating": {
+        "rating": 3.4,
+        "count": 263
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c217-da5b-718d-9ef8-bffb3954ba60/0197c217-da5b-718d-9ef8-bffb3954ba60.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c217-da5b-718d-9ef8-bffb3954ba60/0197c217-da5b-718d-9ef8-bffb3954ba60.jpg?width=720&height=1080"
+    },
+    "description": "\"Harry Heathcote of Gangoil: A Tale of Australian Bush-Life\" by Anthony Trollope is a novel written during the late 19th century. This story unfolds in the vast, rugged landscape of Queensland, Australia, and centers around Harry Heathcote, a young, determined squatter managing a large sheep run. As he navigates his responsibilities and struggles with the challenges of bush life, he is also embroiled in local tensions that hint at deeper conflicts within the community, especially involving new neighbors and potential threats to his livelihood.  At the start of the novel, readers meet Harry Heathcote as he returns home for dinner after a long, hot day. The narrative provides insight into his domestic life with his wife and sister-in-law, illustrating a content but laborious existence marked by the harsh realities of bush life. A looming sense of foreboding emerges from discussions of fire hazards and tensions between Harry and a newcomer, Giles Medlicot, who has settled nearby. As Heathcote grapples with the responsibilities of his vast land, the opening chapters set the stage for a conflict that intertwines personal relationships, economic pressures, and the merciless environment of the Australian bush. This combination of character development and foreshadowing invites readers to delve into a story rich with themes of ambition, isolation, and the struggles inherent in forging a life in the wilds of Australia. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cd47-c06e-728d-a00d-1e9fbcd48514",
+    "name": "The Autobiography of a Cornish Smuggler: (Captain Harry Carter, of Prussia Cove) 1749-1809",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harry Carter"
+      ],
+      "goodreadsRating": {
+        "rating": 3.13,
+        "count": 16
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cd47-c06e-728d-a00d-1e9fbcd48514/0197cd47-c06e-728d-a00d-1e9fbcd48514.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cd47-c06e-728d-a00d-1e9fbcd48514/0197cd47-c06e-728d-a00d-1e9fbcd48514.jpg?width=720&height=1080"
+    },
+    "description": "\"The Autobiography of a Cornish Smuggler\" by Harry Carter is a historical account written in the early 19th century. This narrative explores the life of Captain Harry Carter, who reflects on his experiences as a smuggler in Cornwall during a time when the region was notorious for such activities. The book offers an authentic perspective on smuggling, the local culture, and the societal attitudes of the time, focusing on the intersection of his criminal enterprises and personal faith.  At the start of the autobiography, Carter expresses his intention to document the significant events of his life, driven by both personal reflection and a sense of divine inspiration. He begins by recounting his humble origins in Cornwall, detailing his upbringing in a large family and the early years of his labor in the mines. As he matures, he transitions into smuggling, which he describes with a mix of pride and the moral struggles he faces as he is torn between his actions and his religious convictions. The opening sets the stage for an exploration of the duality of his life: a smuggler enriched by illicit trade yet grappling with personal redemption and the influence of Methodism. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c1e6-b662-72ae-a1cc-22ba67153b6c",
+    "name": "The Adventures of Harry Richmond — Complete",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "George Meredith"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 23
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c1e6-b662-72ae-a1cc-22ba67153b6c/0197c1e6-b662-72ae-a1cc-22ba67153b6c.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c1e6-b662-72ae-a1cc-22ba67153b6c/0197c1e6-b662-72ae-a1cc-22ba67153b6c.jpg?width=720&height=1080"
+    },
+    "description": "\"The Adventures of Harry Richmond — Complete\" by George Meredith is a novel likely written in the late 19th century. The story revolves around Harry Lepel Richmond, a young boy caught in the emotional turmoil stemming from his family's conflicts, particularly concerning his father and mother. The narrative unfolds through Harry's eyes as he navigates childhood adventures, family complexities, and societal expectations.  At the start of the novel, we are introduced to Riversley Grange, where Harry lives with his grandfather, the Squire Beltham, and other members of the family. A dramatic midnight encounter shakes the household as Mr. Richmond, Harry's estranged father, arrives unannounced, seeking to reconcile with his wife, Marian. This meeting evokes strong reactions, particularly from the Squire, who fiercely resents Mr. Richmond for past grievances. The tension escalates into a scene filled with confrontation and emotional appeals that emphasize the themes of familial loyalty, love, and conflict. This opening sets the stage for Harry's journey through his childhood entangled with the complexities of his parents’ tumultuous relationship. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c807-3e82-76fd-b7f5-72d528958170",
+    "name": "Harry Escombe: A Tale of Adventure in Peru",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harry Collingwood"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 8
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c807-3e82-76fd-b7f5-72d528958170/0197c807-3e82-76fd-b7f5-72d528958170.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c807-3e82-76fd-b7f5-72d528958170/0197c807-3e82-76fd-b7f5-72d528958170.jpg?width=720&height=1080"
+    },
+    "description": "\"Harry Escombe: A Tale of Adventure in Peru\" by Harry Collingwood is a fiction novel written in the late 19th century. The story follows Harry Escombe, a young apprentice civil engineer who is selected to assist in the survey and construction of a railway line in Peru. As the narrative unfolds, readers can anticipate a journey filled with exploration, danger, and personal growth.  The opening portion of the tale introduces Harry as he receives the exciting opportunity to work in Peru, a prospect loaded with hope for a better future for his struggling family. However, the thrill of adventure is soon overshadowed by the reality of working under Mr. Butler, his tyrannical superior, who subjects him to strenuous and unsafe tasks. After a precarious accident during surveying, Harry finds himself plunged into a life-threatening situation, only to be rescued by a local Indian woman and her son. As he recuperates in their care, the stage is set for further revelations about his journey, the culture surrounding him, and the ongoing challenges he faces on the road ahead. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d717-63df-7009-9759-60c0605bca88",
+    "name": "The stainless steel rat",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harry Harrison"
+      ],
+      "goodreadsRating": {
+        "rating": 3.92,
+        "count": 16480
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d717-63df-7009-9759-60c0605bca88/0197d717-63df-7009-9759-60c0605bca88.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d717-63df-7009-9759-60c0605bca88/0197d717-63df-7009-9759-60c0605bca88.jpg?width=720&height=1080"
+    },
+    "description": "\"The Stainless Steel Rat\" by Harry Harrison is a science fiction novel written in the early 1960s. The story follows the clever and audacious anti-hero James Bolivar diGriz, known as \"Slippery Jim,\" a master criminal in a futuristic society where crime is nearly nonexistent, making him a unique outlier. The novel promises a thrilling mix of heists, humor, and ingenious escapes as Jim navigates a complex world filled with robots and law enforcement.  The opening of the novel introduces readers to diGriz executing a high-stakes heist, one that combines his charming wit with sharp criminal expertise. As he is caught in the act and attempts to evade capture, we witness his playful banter with a police robot and his resourcefulness in escaping disastrous situations. This initial escapade sets the tone for the book, presenting a fast-paced narrative infused with a sense of adventure. The opening positions Jim as a character who thrives in high-pressure scenarios, making it clear that readers can expect a mix of clever antics, moral ambiguity, and social commentary wrapped in the fantastical elements of the sci-fi genre. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d6f2-7924-760f-9113-bf32be0b1bdf",
+    "name": "The stainless steel rat",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harry Harrison"
+      ],
+      "goodreadsRating": {
+        "rating": 3.92,
+        "count": 16480
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d6f2-7924-760f-9113-bf32be0b1bdf/0197d6f2-7924-760f-9113-bf32be0b1bdf.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d6f2-7924-760f-9113-bf32be0b1bdf/0197d6f2-7924-760f-9113-bf32be0b1bdf.jpg?width=720&height=1080"
+    },
+    "description": "\"The Stainless Steel Rat\" by Harry Harrison is a science fiction novel written in the late 1950s. The story follows the protagonist, James Bolivar diGriz, better known as \"Slippery Jim,\" a clever and resourceful thief navigating a futuristic society where crime is a rare occurrence but he thrives as a master criminal. The book explores themes of individuality, freedom, and the nature of crime in an overly civilized world.  In this fast-paced tale, diGriz embarks on a daring heist involving the theft of a large sum of money from an armored truck. Utilizing his cunning skills and detailed planning, he executes the robbery with precision. However, things take a turn when he realizes that the authorities have anticipated his every move, leading to an unexpected confrontation with the Special Corps, a secretive organization that recruits former criminals for its operations. The story culminates in diGriz being offered a position within the Corps, allowing him to use his unique talents for a greater purpose, thus blurring the lines between hero and villain in a humorous and thought-provoking manner. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d05d-13f5-72ec-80c9-d592eaef0159",
+    "name": "My Wife and I; Or, Harry Henderson's History",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harriet Beecher Stowe"
+      ],
+      "goodreadsRating": {
+        "rating": 3.85,
+        "count": 13
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d05d-13f5-72ec-80c9-d592eaef0159/0197d05d-13f5-72ec-80c9-d592eaef0159.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d05d-13f5-72ec-80c9-d592eaef0159/0197d05d-13f5-72ec-80c9-d592eaef0159.jpg?width=720&height=1080"
+    },
+    "description": "\"My Wife and I: Or, Harry Henderson's History\" by Harriet Beecher Stowe is a novel written in the late 19th century. The story centers around Harry Henderson, a reflective young man from New Hampshire, as he navigates the complexities of love, marriage, and personal growth. Through Harry's experiences, the author explores themes of childhood innocence, romantic ideals, and the evolution of human relationships against the backdrop of societal changes.  The opening of the novel introduces Harry's childhood and his longing for companionship, particularly focusing on his deep connection with a girl named Susie. From a young age, Harry feels isolated in his large family and finds solace in his imaginary relationship with Susie, whom he considers his \"child-wife.\" This chapter recounts the purity and joys of their childhood friendship, highlighting key moments filled with innocence and adventure as they navigate the challenges of growing up. Harry's strong feelings for Susie are soon complicated by the harsh realities of life, marked by her untimely death, which profoundly impacts his perspective on love and the bonds that define our lives. Thus, the story begins with a poignant reflection on the simplicity of young love, setting the stage for Harry's journey into adulthood. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c802-e5b6-7209-abe7-6d645e3afbf8",
+    "name": "Tom, Dick and Harry",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Talbot Baines Reed"
+      ],
+      "goodreadsRating": {
+        "rating": 4.27,
+        "count": 11
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c802-e5b6-7209-abe7-6d645e3afbf8/0197c802-e5b6-7209-abe7-6d645e3afbf8.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c802-e5b6-7209-abe7-6d645e3afbf8/0197c802-e5b6-7209-abe7-6d645e3afbf8.jpg?width=720&height=1080"
+    },
+    "description": "\"Tom, Dick and Harry\" by Talbot Baines Reed is a fictional novel written in the late 19th century. The book follows young Master Jones, affectionately nicknamed \"Sarah\" by his peers at Dangerfield College, as he navigates the ups and downs of school life, friendships, and mishaps. The story captures the amusing and often chaotic experiences of schoolboys, including a dramatic incident involving a shot dog, and delves into themes of loyalty, bravery, and the complexities of childhood relationships.  The opening of the novel introduces us to Master Jones as he experiences terror after hearing a shot in the night. Mistakenly convinced that a fellow student named Tempest has gone missing due to sleepwalking, Jones is consumed with fear. This suspenseful start sets the stage for lighthearted intrigue within the school's atmosphere, where boys are grappling with pranks, misunderstandings, and the authority of their headmaster, Dr. Plummer. The narrative hints at the comedic twists and social dynamics of their world, establishing a lively environment that promises both humor and adventure as the characters navigate the aftermath of the night's chaos. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cac7-7ca1-7370-8b4e-fd29674f8a7e",
+    "name": "'Charge It': Keeping Up With Harry",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Irving Bacheller"
+      ],
+      "goodreadsRating": {
+        "rating": 4.2,
+        "count": 10
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cac7-7ca1-7370-8b4e-fd29674f8a7e/0197cac7-7ca1-7370-8b4e-fd29674f8a7e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cac7-7ca1-7370-8b4e-fd29674f8a7e/0197cac7-7ca1-7370-8b4e-fd29674f8a7e.jpg?width=720&height=1080"
+    },
+    "description": "\"Charge It\" by Irving Bacheller is a novel written in the early 20th century. The story delves into the themes of extravagant living and social pretensions through the lens of its protagonist, Harry, as he navigates his affluent lifestyle with a mix of humor and absurdity. Supported by the Honorable Socrates Potter, Harry's escapades highlight the pitfalls of materialism and the social pressures of maintaining an appearance of wealth.  At the start of the narrative, we are introduced to Harry and Socrates as they rush through a series of chaotic shopping activities, where Harry frequently declares, “Charge it,” emphasizing a carefree attitude toward spending that defines his character. The opening depicts a series of frantic events involving their car journey, accidents, and near-misses that illustrate Harry's reckless pursuit of social engagements, particularly a bridge party. Socrates, as a more grounded observer, articulates the contrasts between their extravagant lifestyle and the moral implications of their actions, setting the stage for the exploration of personal and societal values intertwined with humor and irony. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c206-7112-76db-a7f9-d224d5801882",
+    "name": "The Confessions of Harry Lorrequer — Complete",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Charles James Lever"
+      ],
+      "goodreadsRating": {
+        "rating": 2.9,
+        "count": 10
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c206-7112-76db-a7f9-d224d5801882/0197c206-7112-76db-a7f9-d224d5801882.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c206-7112-76db-a7f9-d224d5801882/0197c206-7112-76db-a7f9-d224d5801882.jpg?width=720&height=1080"
+    },
+    "description": "\"The Confessions of Harry Lorrequer — Complete\" by Charles James Lever is a novel written during the early 19th century. This engaging work follows the adventures and misadventures of Harry Lorrequer, a young officer in the British army, as he navigates life, love, and the complexities of his career, particularly during his time in Ireland and beyond.  At the start of the novel, we are introduced to Harry Lorrequer upon his arrival back in Cork after years of military service. The atmosphere is one of mingled joy and nostalgia, as the regiment is welcomed enthusiastically by the local citizens amid lavish celebrations. Through humorous anecdotes, Lorrequer describes the regimental festivities, his encounters with eccentric characters, and his own penchant for drama — not just on the stage but in everyday life. His adventures culminate in a series of comedic incidents, including a chaotic performance of \"Othello,\" revealing both his charm and folly, setting the stage for further escapades in the chapters to come. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cc46-baeb-751d-88f8-055115c76b07",
+    "name": "Harry Watson's High School Days; Or, The Rivals of Rivertown",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Frank V. Webster"
+      ],
+      "goodreadsRating": {
+        "rating": 3.56,
+        "count": 9
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cc46-baeb-751d-88f8-055115c76b07/0197cc46-baeb-751d-88f8-055115c76b07.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cc46-baeb-751d-88f8-055115c76b07/0197cc46-baeb-751d-88f8-055115c76b07.jpg?width=720&height=1080"
+    },
+    "description": "\"Harry Watson's High School Days; Or, The Rivals of Rivertown\" by Frank V. Webster is a novel written in the early 20th century. This coming-of-age story centers around Harry Watson, a new student at Rivertown High School, who faces challenges, peer pressures, and the consequences of his brave actions. The novel captures themes of friendship, bullying, and the complexities of social dynamics among teenagers.  At the start of the story, Harry arrives at Rivertown High and quickly becomes the center of attention due to his courage when he avoids a potential disaster involving a sled and two small children. Despite initially being put to the test by local bullies, Harry's bravery earns him admiration from some peers, including the wealthy and popular Viola Darrow. However, he also faces the ire of the school bully, Pud Snooks, who feels threatened by Harry's heroism. As the chapters progress, Harry navigates the trials of adolescence, including sports rivalries, social standings, and personal integrity, setting the stage for an exploration of friendship and character development in a school setting. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cb18-41b6-71ec-848e-76a5be4c84c7",
+    "name": "Try Again; Or, the Trials and Triumphs of Harry West. A Story for Young Folks",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Oliver Optic"
+      ],
+      "goodreadsRating": {
+        "rating": 3.33,
+        "count": 6
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cb18-41b6-71ec-848e-76a5be4c84c7/0197cb18-41b6-71ec-848e-76a5be4c84c7.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cb18-41b6-71ec-848e-76a5be4c84c7/0197cb18-41b6-71ec-848e-76a5be4c84c7.jpg?width=720&height=1080"
+    },
+    "description": "\"Try Again; Or, the Trials and Triumphs of Harry West. A Story for Young Folks\" by Oliver Optic is a novel written in the early 20th century. It follows the story of young Harry West, a boy who struggles against adversity in a society that seems ready to cast him aside. The narrative unfolds as Harry encounters challenges related to his past, particularly with figures like Squire Walker and Jacob Wire, and explores themes of resilience, friendship, and the quest for a brighter future.  At the start of the book, Harry finds himself in a poorhouse and faces an impending transfer to the home of Jacob Wire, a cruel man known for mistreating his workers. During a confrontation with Squire Walker, who embodies authority and disdain for the less fortunate, Harry stands his ground, revealing his strong will despite his vulnerable circumstances. After a heart-wrenching discussion with Mr. Nason, the keeper of the poorhouse who cares for him, Harry contemplates running away. His thoughts are interrupted when he is approached by Ben Smart, a neighborhood boy, who offers a plan for escape. As the narrative progresses, it becomes clear that Harry's journey will be filled with both trials and the potential for triumph as he navigates his escape from a harsh reality. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0198ac20-442d-7b0c-8ee5-91bbf9bcd57b",
+    "name": "Harry H. Woodring",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "ingram",
+    "details": {
+      "authors": [
+        "Keith D. McFarland"
+      ],
+      "goodreadsRating": {
+        "rating": 3.6,
+        "count": 5
+      },
+      "chapters": [
+        {
+          "title": "Front Cover"
+        },
+        {
+          "title": "Half Title"
+        },
+        {
+          "title": "Title Page"
+        },
+        {
+          "title": "Copyright Page"
+        },
+        {
+          "title": "Dedication"
+        },
+        {
+          "title": "Preface"
+        },
+        {
+          "title": "Contents"
+        },
+        {
+          "title": "List of Illustrations"
+        },
+        {
+          "title": "1 / From Boyhood to Banker"
+        },
+        {
+          "title": "2 / Venture into Politics"
+        },
+        {
+          "title": "3 / Governor of Kansas"
+        },
+        {
+          "title": "4 / The Governor Plays Politics"
+        },
+        {
+          "title": "5 / Assistant Secretary of War"
+        },
+        {
+          "title": "6 / Mr. Secretary"
+        },
+        {
+          "title": "7 / Working for Military Readiness"
+        },
+        {
+          "title": "8 / Politics Disrupts the War Department"
+        },
+        {
+          "title": "9 / Problems of Rearmament"
+        },
+        {
+          "title": "10 / Problems of Neutrality, 1936-1939"
+        },
+        {
+          "title": "11 / Toward an \"Army in Being\""
+        },
+        {
+          "title": "12 / Obstructionism Brings Dismissal"
+        },
+        {
+          "title": "13 / Years of Frustration"
+        },
+        {
+          "title": "Notes"
+        },
+        {
+          "title": "Bibliography"
+        },
+        {
+          "title": "Index"
+        },
+        {
+          "title": "Back Cover"
+        }
+      ],
+      "publicationDate": "2023-10-13"
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0198ac20-442d-7b0c-8ee5-91bbf9bcd57b/0198ac20-442d-7b0c-8ee5-91bbf9bcd57b.webp?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0198ac20-442d-7b0c-8ee5-91bbf9bcd57b/0198ac20-442d-7b0c-8ee5-91bbf9bcd57b.webp?width=720&height=1080"
+    },
+    "description": "The names of most of President Franklin D. Roosevelt&#8217;s cabinet members are well known. Anyone familiar with FDR&#8217;s administration will remember Henry Morgenthau, Jr., Cordell Hull, Harold Ickes, Frances Perkins, Henry Wallace, and James Farley. One member of that circle, however, has remained a virtual unknown: Harry H. Woodring, the recalcitrant Secretary of War who was forced by Roosevelt to resign from the cabinet.<br><br>It is doubtful that the story of any of Roosevelt&#8217;s cabinet members is more interesting than that of Woodring. With the breakdown of world peace in the 1930s, the matter of national defense became a major concern, and the United States military establishment became increasingly important. Woodring&#8217;s role in Washington during this time was a critical one; his dealings with Roosevelt were extensive, and on many key issues his influence was considerable. Why, then, his lack of notoriety?<br><br>The simple fact is that until now almost nothing has been written of Woodring&#8217;s service as Secretary of War. He was one of the few individuals closely associated with Roosevelt who did not write an autobiography, memoirs, or some other personal account of what took place during those years. Keith D. McFarland is the first scholar to have had access to Woodring&#8217;s personal papers. Drawing from this new material, as well as from Woodring&#8217;s official correspondence and from personal interviews with the members of Woodring&#8217;s immediate family and dozens of Woodring&#8217;s associates, he provides in this volume the careful study that has long been needed.<br><br>McFarland first traces Woodring&#8217;s early political career in Kansas. As a Democratic Governor from 1931 to 1933, Woodring worked successfully with the Republican-dominated legislature to alleviate many of the physical and economic hardships facing residents of the state during the Depression, Nevertheless, he lost his bid for re-election to Alf M. Landon. When Roosevelt won the presidency that same year, he appointed Woodring as Assistant Secretary of War.<br><br>Woodring served the country well on the national level. He was influential to expanding the Army Air Corps and in making practical the Army&#226;&#8364;&#8482;s industrial and military mobilization plans. After the death of George Dern in 1936, Roosevelt demonstrated his confidence in Woodring by appointing him Secretary of War.<br><br>The conflict between Woodring and the President arose over the sending of American military supplies and equipment to foreign nations. It was Woodring&#8217;s job as secretary of War to see that the War Department adhered to the neutrality legislation of the 1930s. Roosevelt believed that the United States should aid the enemies of Hitler, even if such action did not adhere to the spirit of the neutrality legislation. Upon the outbreak of war in Europe in 1939, FDR did everything he could to supply Britain and France with American arms and munitions. Woodring was caught between is loyalty and devotion to the President and his sincere belief that the chief executive&#226;&#8364;&#8482;s program would endanger the nation&#226;&#8364;&#8482;s security. Maintaining that it was tactically unsound to give away supplies at a time when the U.S. Army was in desperate need of such items, Woodring made concerted efforts to prevent the implementation of FDR&#8217;s program. The President was forced to ask him to resign.<br><br>Few American Presidents have been more respected and admired than Franklin D. Roosevelt. There has been a tendency to disregard, ignore, or ridicule those administrative officials who disagreed with his actions and objectives. In relating the viewpoint of a distinguished, patriotic American who strongly opposed FDR&#8217;s policies and tried to change them, this book provides a clearer understanding of politics and government in pre-World War II America.<p><br></p><p><i>Open access edition funded by the National Endowment for Humanities and the Andrew W. Mellon Foundation Humanities Open Book Program.</i><br></p>"
+  },
+  {
+    "id": "0197cff6-d0a9-707d-892e-42dca3e2c90e",
+    "name": "Harry Blount, the Detective; Or, The Martin Mystery Solved",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "T. J. Flanagan"
+      ],
+      "goodreadsRating": {
+        "rating": 2.75,
+        "count": 4
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cff6-d0a9-707d-892e-42dca3e2c90e/0197cff6-d0a9-707d-892e-42dca3e2c90e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cff6-d0a9-707d-892e-42dca3e2c90e/0197cff6-d0a9-707d-892e-42dca3e2c90e.jpg?width=720&height=1080"
+    },
+    "description": "\"Harry Blount, the Detective; Or, The Martin Mystery Solved\" by T. J. Flanagan is a novel written in the late 19th century. This mystery story revolves around the character Harry Blount, a detective who becomes embroiled in a complex case involving family secrets, a potential murder, and the intersections of love and deception. The plot begins with the introduction of Mr. St. George Stafford and his daughter, Kate, who are caught in a web of unexpected engagements and revelations that set the stage for unraveling the central mystery.  The beginning of the novel depicts a picturesque May morning at Hanley Hall, where Mr. Stafford eagerly anticipates a letter that is crucial to the future of his family. Upon receiving the letter, Stafford relays surprising news about his daughter’s betrothal to a boy she has never met, resulting in a mix of amusement and consternation among the family. As the story unfolds, we are introduced to key characters, including the handsome Harry Hall and Richard Martin, who rescues Kate from a drowning accident. The opening chapters lay the groundwork for a series of events that will intertwine these characters' fates, as growing tensions hint at underlying plots involving financial distress and sinister secrets, promising that the journey ahead will be filled with intrigue and suspense. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d219-a2d6-70a9-819a-109d4314f6c0",
+    "name": "Harry's Island",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Ralph Henry Barbour"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 3
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d219-a2d6-70a9-819a-109d4314f6c0/0197d219-a2d6-70a9-819a-109d4314f6c0.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d219-a2d6-70a9-819a-109d4314f6c0/0197d219-a2d6-70a9-819a-109d4314f6c0.jpg?width=720&height=1080"
+    },
+    "description": "\"Harry's Island\" by Ralph Henry Barbour is a novel written in the early 20th century. This charming story revolves around a group of boys, specifically focusing on three main characters: Chub, Roy, and Dick, who are on the brink of graduation from Ferry Hill School. As summer approaches, the friends fantasize about camping on Fox Island, planning exploits full of youthful exuberance, adventures, and budding friendships.   At the start of the novel, the three boys lounge on Hood's Hill, admiring the scenery and discussing their coming separation after graduation, highlighting a sense of nostalgia mixed with excitement. The narrative introduces Harry, an adventurous girl who is as spirited and determined as the boys, further enriching the dynamics between them. As the boys plan their potential camping trip, they express a mix of hopefulness and uncertainty about the future, setting the stage for the adventures that lie ahead. The opening portion vividly captures the carefree essence of boyhood and the anticipation of new experiences, making it an engaging read for audiences who appreciate tales of friendship and youthful adventures. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cb12-69a2-76bb-9080-49b332024da1",
+    "name": "The Ethical Engineer",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harry Harrison"
+      ],
+      "goodreadsRating": {
+        "rating": 3.78,
+        "count": 3317
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cb12-69a2-76bb-9080-49b332024da1/0197cb12-69a2-76bb-9080-49b332024da1.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cb12-69a2-76bb-9080-49b332024da1/0197cb12-69a2-76bb-9080-49b332024da1.jpg?width=720&height=1080"
+    },
+    "description": "\"The Ethical Engineer\" by Harry Harrison is a science fiction novel written in the early 1960s. The story follows Jason dinAlt, a human on the hostile planet Pyrrus, where he faces a complex mix of conflict and survival amidst its deadly and violent inhabitants. The plot explores themes of morality and personal agency in a world where ethics seem dictated by local customs and survival often relies on brutal choices.  At the start of the novel, Jason observes the aftermath of a violent altercation between two Pyrran fighters, revealing the fierce and dangerous nature of the planet's inhabitants. Despite the tensions, he is drawn to Meta, a strong Pyrran girl, but their relationship is strained by cultural differences and misunderstandings. The arrival of a spaceship triggers a series of events leading to his encounter with a stranger who threatens his life, only for Jason to find himself kidnapped and drawn into a new conflict. The opening portion sets the stage for a tale that promises to navigate the intricate choices between survival, ethics, and the nature of good and evil amid a backdrop of interstellar intrigue. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c1e6-67cd-7165-b728-e72bfcc54663",
+    "name": "The Adventures of Harry Richmond — Volume 1",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "George Meredith"
+      ],
+      "goodreadsRating": {
+        "rating": 3,
+        "count": 2
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c1e6-67cd-7165-b728-e72bfcc54663/0197c1e6-67cd-7165-b728-e72bfcc54663.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c1e6-67cd-7165-b728-e72bfcc54663/0197c1e6-67cd-7165-b728-e72bfcc54663.jpg?width=720&height=1080"
+    },
+    "description": "\"The Adventures of Harry Richmond — Volume 1\" by George Meredith is a novel written in the late 19th century. The story primarily follows the life of Harry Richmond, a boy caught in the tumultuous relationships between his father, Mr. Richmond, and his grandfather, Squire Beltham, as well as the challenges of love and identity. The narrative delves into themes of familial conflict, societal expectations, and personal growth.  At the start of the book, the reader is introduced to Riversley Grange and its inhabitants, including the squire and his family. The narrative kicks off with a late-night disturbance leading to the arrival of a mysterious gentleman, Mr. Richmond, who is revealed to be Harry's estranged father. The squire's initial hostility toward him paints a vivid picture of past grievances and familial strife as Mr. Richmond seeks to reconnect with his wife and son amidst fierce opposition from the squire. This dramatic encounter sets the stage for Harry's complex relationship with both his father and grandfather and hints at the adventures and challenges awaiting him as he navigates through this intricate familial web. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c1e6-ad1b-75ee-886d-9c3697609632",
+    "name": "The Adventures of Harry Richmond — Volume 8",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "George Meredith"
+      ],
+      "goodreadsRating": {
+        "rating": 3,
+        "count": 2
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c1e6-ad1b-75ee-886d-9c3697609632/0197c1e6-ad1b-75ee-886d-9c3697609632.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c1e6-ad1b-75ee-886d-9c3697609632/0197c1e6-ad1b-75ee-886d-9c3697609632.jpg?width=720&height=1080"
+    },
+    "description": "\"The Adventures of Harry Richmond — Volume 8\" by George Meredith is a novel written in the late 19th century. This installment continues the tumultuous life of Harry Richmond, who navigates complex familial and social dynamics amidst revelations and conflicts that foreground personal honor, relationships, and societal expectations.  At the start of this volume, we witness a significant confrontation involving Harry, his father, and his grandfather, Mr. Beltham. Tensions escalate as they discuss a recent marriage announcement and finances, with accusations and emotions running high. Harry's father attempts to maintain his dignity amidst his grandfather's harsh criticisms, revealing the strained relationships in their family. The revelations of hidden financial dealings come to light, particularly how Harry's aunt Dorothy played a role in supporting the family indirectly. As the chapter unfolds, it reflects complexity in social standings, familial loyalty, and the burdens of past actions, setting the stage for Harry's ongoing struggles. This opening portion establishes a dramatic tone, characterized by sharp dialogue and vivid character interactions, enticing readers into the evolving narrative of Harry's adventures. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c831-1a8d-753b-8cc5-121343f3e698",
+    "name": "Planet of the Damned",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Harry Harrison"
+      ],
+      "goodreadsRating": {
+        "rating": 3.6,
+        "count": 2089
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c831-1a8d-753b-8cc5-121343f3e698/0197c831-1a8d-753b-8cc5-121343f3e698.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c831-1a8d-753b-8cc5-121343f3e698/0197c831-1a8d-753b-8cc5-121343f3e698.jpg?width=720&height=1080"
+    },
+    "description": "\"Planet of the Damned\" by Harry Harrison is a science fiction novel written in the early 1960s. The book introduces the character Brion Brandd, who is embroiled in a high-stakes competition known as the Twenties on the planet Anvhar. As he navigates the challenges of this brutal contest, the narrative hints at deeper issues, including a looming threat that may extend beyond the competition itself, placing not only his life but the fate of an entire planet at risk.  At the start of the novel, Brion is in the throes of a fencing match, reflecting on his exhaustion from days of rigorous competition. Following his victory, he encounters Ihjel, a fellow competitor who disrupts his recovery by urgently asking for assistance with a critical issue off-world. Through their dialogue, it becomes clear that Ihjel seeks to enlist Brion's unique talent in what appears to be a race against time to prevent disaster on another planet, Dis, which faces imminent destruction. This opening sets the stage for a blend of action, existential themes, and the exploration of moral responsibilities that will unfold as Brion confronts challenges both personal and planetary in scale. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c206-1cf7-754a-9b24-d55b1981f32b",
+    "name": "The Confessions of Harry Lorrequer — Volume 1",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Charles James Lever"
+      ],
+      "goodreadsRating": {
+        "rating": 5,
+        "count": 1
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c206-1cf7-754a-9b24-d55b1981f32b/0197c206-1cf7-754a-9b24-d55b1981f32b.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c206-1cf7-754a-9b24-d55b1981f32b/0197c206-1cf7-754a-9b24-d55b1981f32b.jpg?width=720&height=1080"
+    },
+    "description": "\"The Confessions of Harry Lorrequer — Volume 1\" by Charles James Lever is a novel written in the mid-19th century. The book presents the humorous and adventurous misadventures of Harry Lorrequer, a young officer in the British Army, as he navigates military life, romantic entanglements, and societal escapades. The narrative is set against the backdrop of early 19th-century Ireland, with a charismatic protagonist whose exploits promise wit and charm.  At the start of the novel, the reader is introduced to Harry Lorrequer as he arrives in Cork after a long absence. Departing from the grandeur of military parades and civic festivities, Lorrequer recounts his experiences aboard a transport ship and the subsequent welcome he receives from the citizens of Cork, involving feasts and private theatricals. His initial revelry soon takes an amusing turn as he finds himself navigating through drunken antics and a skirmish with his regiment's strict new Colonel, culminating in a humorous encounter that sets the tone for his comedic exploits. The opening chapters deftly combine lively storytelling with lively character interactions, enabling a glimpse into the chaotic yet vibrant life of a soldier in Cork who is loved by all. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197c206-2c20-7743-8b5f-789ba5296884",
+    "name": "The Confessions of Harry Lorrequer — Volume 2",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Charles James Lever"
+      ],
+      "goodreadsRating": {
+        "rating": 5,
+        "count": 1
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197c206-2c20-7743-8b5f-789ba5296884/0197c206-2c20-7743-8b5f-789ba5296884.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197c206-2c20-7743-8b5f-789ba5296884/0197c206-2c20-7743-8b5f-789ba5296884.jpg?width=720&height=1080"
+    },
+    "description": "\"The Confessions of Harry Lorrequer — Volume 2\" by Charles James Lever is a humorous novel likely written in the early 19th century. The book follows the escapades of Harry Lorrequer, a young officer in the British army, as he navigates various adventures involving love, friendship, and the social intricacies of his time. The narrative is characterized by wit, sarcasm, and playful reflections on Lorrequer's experiences, particularly concerning romance and social standing.  At the start of the narrative, we find Harry Lorrequer in a despondent mood in a coffee-room at the Old Plough in Cheltenham, reflecting on his past misfortunes, particularly after a romantic disappointment. He is soon joined by his friend Jack Waller, who reveals his audacious plan to woo a rich colonel's daughter with Harry’s reluctant assistance. Jack's wild schemes and their ensuing conversation set the stage for hilarious misunderstandings and comedic situations, culminating in a written agreement that places Harry in the ridiculous role of Jack's servant. This opening portion establishes an engaging backdrop for the unfolding adventures, showcasing the playful camaraderie between the protagonists and hinting at the chaotic yet humorous escapades to come. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197cbd7-9c1e-76cf-b8df-ad4687215bde",
+    "name": "The Perils and Adventures of Harry Skipwith by Land and Sea",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "William Henry Giles Kingston"
+      ],
+      "goodreadsRating": {
+        "rating": 4,
+        "count": 1
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197cbd7-9c1e-76cf-b8df-ad4687215bde/0197cbd7-9c1e-76cf-b8df-ad4687215bde.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197cbd7-9c1e-76cf-b8df-ad4687215bde/0197cbd7-9c1e-76cf-b8df-ad4687215bde.jpg?width=720&height=1080"
+    },
+    "description": "\"The Perils and Adventures of Harry Skipwith by Land and Sea\" by W.H.G. Kingston is a fictional novel written in the mid-19th century. The book narrates the thrilling escapades of Harry Skipwith, a young man driven by an insatiable desire for adventure and exploration. As he sets off to travel across the globe, the story promises to unveil encounters with diverse cultures and perilous situations.  The opening of the novel introduces Harry's adventurous spirit influenced by a lineage of explorers and adventurers in his family. He makes an impulsive decision to leave home, driven by tales of distant lands and a longing for excitement. As he embarks on his journey aboard a ship, Harry encounters various challenges, including a harrowing accident on the Mississippi River that leads to his struggle for survival amidst drowning passengers and a fierce alligator. The beginning of the story sets the stage for an action-filled adventure, where Harry's bravery and quick thinking are put to the test as he rescues a fellow passenger, Peter, amidst chaos and danger. (This is an automatically generated summary.)"
+  },
+  {
+    "id": "0197d179-9f5f-705f-a165-45f8a7a7215e",
+    "name": "Harry Harding's Year of Promise",
+    "status": "active",
+    "type": "ebook",
+    "supplier": "standardebooks",
+    "details": {
+      "authors": [
+        "Alfred Raymond"
+      ],
+      "goodreadsRating": {
+        "rating": 3,
+        "count": 1
+      },
+      "chapters": [],
+      "publicationDate": null
+    },
+    "thumbnails": {
+      "small": "https://catalog.cdn.speechify.com/thumbnails/0197d179-9f5f-705f-a165-45f8a7a7215e/0197d179-9f5f-705f-a165-45f8a7a7215e.jpg?width=300&height=450",
+      "large": "https://catalog.cdn.speechify.com/thumbnails/0197d179-9f5f-705f-a165-45f8a7a7215e/0197d179-9f5f-705f-a165-45f8a7a7215e.jpg?width=720&height=1080"
+    },
+    "description": "\"Harry Harding's Year of Promise\" by Alfred Raymond is a fictional novel written in the early 20th century. The story centers around Harry Harding, a young boy who has plans for a new beginning as he returns to work at McMartin Brothers after a summer vacation. The novel explores themes of personal growth, responsibility, and friendship as Harry navigates his relationships with his peers, particularly his mischievous friend Teddy Burke, and faces challenges in the workplace.  The opening of the book introduces Harry Harding as he enjoys the concluding chapter of a book under a horse-chestnut tree, just before a playful encounter with Teddy Burke. Their banter reveals their personalities—Harry being introspective and thoughtful, while Teddy is more impulsive and carefree. As they discuss an allegory Harry read about a king’s \"Year of Promise,\" they decide to adopt the same mindset for their upcoming year back at work. The chapter sets the tone for their adventures at the Martin Brothers’ department store, foreshadowing both friendship and conflict as they resolve to turn their year into one of fulfillment amidst the trials they face in the workplace. (This is an automatically generated summary.)"
+  }
+]
