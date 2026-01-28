@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.speechify.composeuichallenge"
+    namespace = "com.binod.safedns"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.speechify.composeuichallenge"
+        applicationId = "com.binod.safedns"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -54,11 +54,13 @@ dependencies {
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.navigation.compose)
     implementation(libs.hilt.android)
+    implementation(libs.androidx.navigation.runtime.ktx)
     ksp(libs.hilt.android.compiler)
     implementation(libs.hilt.navigation.compose)
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.coil3.compose)
     implementation(libs.coil3.network.okhttp)
+    implementation(libs.androidx.compose.material.icons.extended)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
