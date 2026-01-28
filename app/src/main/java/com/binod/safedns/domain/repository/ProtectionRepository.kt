@@ -39,7 +39,7 @@ interface ProtectionRepository {
 class ProtectionRepositoryImpl @Inject constructor(
     @ApplicationContext private val context: Context,
     private val preferencesManager: PreferencesManager,
-    private val blocklistPreferences: BlocklistPreferences
+    private val blocklistPreferences: BlocklistPreferences,
 ) : ProtectionRepository {
 
     private val _status = MutableStateFlow(ProtectionStatus(state = ProtectionState.OFF))

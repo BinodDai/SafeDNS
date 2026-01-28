@@ -135,6 +135,7 @@ fun ProfileSelector(
                     isSelected = profile == ProtectionProfile.CUSTOM,
                     onClick = {
                         showBottomSheet = false
+                        onPickProfile(ProtectionProfile.CUSTOM)
                         onOpenCustomProfile()
                     }
                 )
